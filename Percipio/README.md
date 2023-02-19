@@ -2,7 +2,7 @@
 ### **Feb, 2023**
 |**Domain**|**Course**|**Certificate**|**Badge**|
 |:--------:|:---------|:-------------:|:-------:|
-| Cloud | [`Cloud Data Platforms: Cloud Computing`](https://skillsoft.digitalbadges.skillsoft.com/ff49d51b-5fd5-4351-9b60-aec1e4936214) | | |
+| Cloud | `Cloud Data Platforms: Cloud Computing` | [:white_check_mark:] | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/ff49d51b-5fd5-4351-9b60-aec1e4936214) |
 | | [`Working with Functions, Times, Dates, & Intervals`](https://skillsoft.digitalbadges.skillsoft.com/3994e60a-cf69-4187-b1b3-bd06f049bb8c) | | |
 | | [`Designing & Implementing Views`](https://skillsoft.digitalbadges.skillsoft.com/9c68de3b-cfa3-40c3-b750-5e38b76d4b84) | | |
 | | [`Querying & Manipulating Data`](https://skillsoft.digitalbadges.skillsoft.com/a0e17400-1473-43c8-98cf-4176bfb04bcb) | | |
