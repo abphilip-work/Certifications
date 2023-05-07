@@ -2,18 +2,28 @@
 ### **May, 2023**
 |**Domain**|**Course**|**Certificate**|**Badge**|
 |:--------:|:---------|:-------------:|:-------:|
-| `Cloud` | Cloud Data Platforms: Cloud Computing | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Cloud%20Data%20Platforms_%20Cloud%20Computing.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/ff49d51b-5fd5-4351-9b60-aec1e4936214) |
+| `Cloud` | Cloud Data Platforms: Cloud Computing | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/ff49d51b-5fd5-4351-9b60-aec1e4936214) |
+---
 ### **Apr, 2023**
 |**Domain**|**Course**|**Certificate**|**Badge**|
 |:--------:|:---------|:-------------:|:-------:|
-| `Cloud` | Cloud Data Platforms: Cloud Computing | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Cloud%20Data%20Platforms_%20Cloud%20Computing.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/ff49d51b-5fd5-4351-9b60-aec1e4936214) |
+| `Cloud` | Cloud Data Platforms: Cloud Computing | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/ff49d51b-5fd5-4351-9b60-aec1e4936214) |
+---
 ### **Mar, 2023**
 |**Domain**|**Course**|**Certificate**|**Badge**|
 |:--------:|:---------|:-------------:|:-------:|
-| `Cloud` | Cloud Data Platforms: Cloud Computing | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Cloud%20Data%20Platforms_%20Cloud%20Computing.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/ff49d51b-5fd5-4351-9b60-aec1e4936214) |
+| `Cloud` | Cloud Data Platforms: Cloud Computing | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/ff49d51b-5fd5-4351-9b60-aec1e4936214) |
+---
 ### **Feb, 2023**
 |**Domain**|**Course**|**Certificate**|**Badge**|
 |:--------:|:---------|:-------------:|:-------:|
+| `Dev` | Software Design and Development: Software Engineering & SDLC Phases | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/5bd2a157-c20e-4a4f-923a-7000eb90c631) |
+| `Cloud` | Azure Data Fundamentals: Azure Data Ingestion & Processing | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/e9a23019-922c-4bfa-9b4f-4248e44ef827) |
+| `BigData` | Traditional Data Architectures: Data Warehousing and ETL Systems | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/698a140d-097a-45b2-9ab5-8bdf73ceb6b8) |
+| `BigData` | QlikView: Extract, Transform, & Load (ETL) | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/8f761a5c-b63b-4699-8bac-99276e4bf627) |
+| `Cloud` | CompTIA Server+: Servers & Cloud Computing | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/d4e22302-4fa2-4ed8-908c-693e0772bd18) |
+| `Cloud` | Cloud Data Platforms: Cloud-based Applications & Storage | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/8b71f6f6-bd53-4508-9c12-1a77509dba72) |
+| `Cloud` | Cloud Data Platforms: AWS, Azure, & GCP Comparison | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/12dfadbe-a338-4156-8e09-692108eae768) |
 | `Cloud` | Cloud Data Platforms: Cloud Computing | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Cloud%20Data%20Platforms_%20Cloud%20Computing.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/ff49d51b-5fd5-4351-9b60-aec1e4936214) |
 | `SQL` | Working with Functions, Times, Dates, & Intervals | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Working%20with%20Functions%2C%20Times%2C%20Dates%2C%20%26%20Intervals.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/3994e60a-cf69-4187-b1b3-bd06f049bb8c) |
 | `SQL` | Designing & Implementing Views | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Designing%20%26%20Implementing%20Views.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/9c68de3b-cfa3-40c3-b750-5e38b76d4b84) |
