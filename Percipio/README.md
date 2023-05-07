@@ -1,4 +1,16 @@
 # ZS: Percipio
+### **May, 2023**
+|**Domain**|**Course**|**Certificate**|**Badge**|
+|:--------:|:---------|:-------------:|:-------:|
+| `Cloud` | Cloud Data Platforms: Cloud Computing | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Cloud%20Data%20Platforms_%20Cloud%20Computing.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/ff49d51b-5fd5-4351-9b60-aec1e4936214) |
+### **Apr, 2023**
+|**Domain**|**Course**|**Certificate**|**Badge**|
+|:--------:|:---------|:-------------:|:-------:|
+| `Cloud` | Cloud Data Platforms: Cloud Computing | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Cloud%20Data%20Platforms_%20Cloud%20Computing.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/ff49d51b-5fd5-4351-9b60-aec1e4936214) |
+### **Mar, 2023**
+|**Domain**|**Course**|**Certificate**|**Badge**|
+|:--------:|:---------|:-------------:|:-------:|
+| `Cloud` | Cloud Data Platforms: Cloud Computing | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Cloud%20Data%20Platforms_%20Cloud%20Computing.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/ff49d51b-5fd5-4351-9b60-aec1e4936214) |
 ### **Feb, 2023**
 |**Domain**|**Course**|**Certificate**|**Badge**|
 |:--------:|:---------|:-------------:|:-------:|
