@@ -2,60 +2,61 @@
 ### **May, 2023**
 |**Domain**|**Course**|**Certificate**|**Badge**|
 |:--------:|:---------|:-------------:|:-------:|
-| `Python` | Complex Data Types in Python: Shallow & Deep Copies in Python | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/6225e86f-e9e0-489f-8ee0-bec035040449) |
-| `Cloud` | Google Cloud: Getting Started | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/3cbae5b0-39e3-48a0-8979-d45cf2fe5213) |
-| `Cloud` | Cloud Value Proposition: Google Cloud Platform for Decision Makers | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/06a04045-74c0-4317-9815-963480fca4b2) |
-| `ML` | Machine Learning with TensorFlow & Cloud ML | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/d12edd32-c942-4827-8d29-2c65357829ef) |
-| `Python` | Introduction to Automated Testing with Selenium | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/7f2464db-0d6a-488b-ad1a-61c454bd01ad) |
-| `Dev` | Test Automation: Automated Software Testing | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/3be0736d-d3ea-4c5d-b20d-6b613882011e) |
-| `ML` | Machine Learning Introduction | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/26415cb1-fbb2-45d9-85df-3e0bf6d7caa6) |
+| `Cloud` | Practical GCP for DevOps: Google Cloud Platform Basics | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Practical%20GCP%20for%20DevOps_%20Google%20Cloud%20Platform%20Basics.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/443501a8-b112-4f16-8b9c-6badce971a78) |
+| `Python` | Complex Data Types in Python: Shallow & Deep Copies in Python | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/6225e86f-e9e0-489f-8ee0-bec035040449) |
+| `Cloud` | Google Cloud: Getting Started | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/3cbae5b0-39e3-48a0-8979-d45cf2fe5213) |
+| `Cloud` | Cloud Value Proposition: Google Cloud Platform for Decision Makers | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/06a04045-74c0-4317-9815-963480fca4b2) |
+| `ML` | Machine Learning with TensorFlow & Cloud ML | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/d12edd32-c942-4827-8d29-2c65357829ef) |
+| `Python` | Introduction to Automated Testing with Selenium | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/7f2464db-0d6a-488b-ad1a-61c454bd01ad) |
+| `Dev` | Test Automation: Automated Software Testing | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/3be0736d-d3ea-4c5d-b20d-6b613882011e) |
+| `ML` | Machine Learning Introduction | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/26415cb1-fbb2-45d9-85df-3e0bf6d7caa6) |
 ---
 ### **Apr, 2023**
 |**Domain**|**Course**|**Certificate**|**Badge**|
 |:--------:|:---------|:-------------:|:-------:|
-| `Cloud` | Cloud Computing and MLOps: ML Pipelines | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/15a40e29-73b6-43be-b2f9-46e6065e23e9) |
-| `Dev` | Automated Testing & Deployment | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/6e6616b5-1c78-4bc2-8eb3-564f4fa53a2a) |
-| `Cloud` | Data Engineering on Microsoft Azure: Databrick Processing | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/3aa3774f-a2c8-4fa4-850f-cfd62cb83ff2) |
-| `MS365` | Designing your slides in PowerPoint 365 | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/ab0b8d3e-8783-4eb8-898c-8a641b029e67) |
-| `MS365` | Using images in PowerPoint 365 | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/40cd7f7e-f6a8-4ff5-8312-cbc4be33462c) |
-| `BigData` | Data Lake Sources, Visualizations, & ETL Operations | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/14371b66-e66e-446b-bc17-a9e53d8dc2b1) |
-| `MS365` | Deep Dive into the Project Schedule (2021 Update) | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/3a84821c-5641-4569-82db-95275b1f7139) |
-| `BigData` | Data Flow Implementation & ETL | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/4851ae1d-faa4-4eed-ac9c-1fc1fab89c16) |
-| `BigData` | Getting Started with Hive | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/774c3f98-579f-4625-b06a-1c5cde11bdf2) |
-| `MS365` | Control the Project Schedule (PMBOK® Guide Sixth Edition) | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/abf18aa1-2ea3-49ee-aab5-821f9c488291) |
-| `MS365` | Using & Formatting Gantt Charts in Project 2019 (Online Desktop Client) | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/d975ac99-52f2-4b9c-a67e-643cbf28fff8) |
+| `Cloud` | Cloud Computing and MLOps: ML Pipelines | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/15a40e29-73b6-43be-b2f9-46e6065e23e9) |
+| `Dev` | Automated Testing & Deployment | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/6e6616b5-1c78-4bc2-8eb3-564f4fa53a2a) |
+| `Cloud` | Data Engineering on Microsoft Azure: Databrick Processing | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/3aa3774f-a2c8-4fa4-850f-cfd62cb83ff2) |
+| `MS365` | Designing your slides in PowerPoint 365 | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/ab0b8d3e-8783-4eb8-898c-8a641b029e67) |
+| `MS365` | Using images in PowerPoint 365 | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/40cd7f7e-f6a8-4ff5-8312-cbc4be33462c) |
+| `BigData` | Data Lake Sources, Visualizations, & ETL Operations | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/14371b66-e66e-446b-bc17-a9e53d8dc2b1) |
+| `MS365` | Deep Dive into the Project Schedule (2021 Update) | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/3a84821c-5641-4569-82db-95275b1f7139) |
+| `BigData` | Data Flow Implementation & ETL | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/4851ae1d-faa4-4eed-ac9c-1fc1fab89c16) |
+| `BigData` | Getting Started with Hive | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/774c3f98-579f-4625-b06a-1c5cde11bdf2) |
+| `MS365` | Control the Project Schedule (PMBOK® Guide Sixth Edition) | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/abf18aa1-2ea3-49ee-aab5-821f9c488291) |
+| `MS365` | Using & Formatting Gantt Charts in Project 2019 (Online Desktop Client) | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/d975ac99-52f2-4b9c-a67e-643cbf28fff8) |
 ---
 ### **Mar, 2023**
 |**Domain**|**Course**|**Certificate**|**Badge**|
 |:--------:|:---------|:-------------:|:-------:|
-| `BigData` | Graph Analytics with Neo4j: An Introduction to Graph Databases & Neo4j | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/c96be629-a293-4ebb-9500-4efc40d26e18) |
-| `BigData` | Database Fundamentals: Understanding Relational Database Management Systems | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/bc60713a-3a37-47c9-85e8-3dfb0d89ac79) |
-| `BigData` | Non-relational Data: Non-relational Databases | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/f300ae07-8bdc-440b-ac8b-b989805bbd23) |
-| `BigData` | Database Fundamentals: Getting Started with SQL | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/7ebb18ce-ce4a-4aed-91bb-26e3294fa6e9) |
-| `Cloud` | AWS Cloud Practitioner 2022: Core AWS Services | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/2c98330c-b41d-4bdd-b09d-3073e15fac96) |
-| `BigData` | Evaluating Systems with Data Modeling | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/be894ef6-b567-49f8-aaee-45dee1b1b84f) |
-| `BigData` | Organizing Business Data with Data Modeling | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/b7e33058-1317-437d-8d3c-4427b3635c21) |
-| `BigData` | Database Fundamentals: Database Administration Basics | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/a25e43da-d382-46ce-b215-1c67337b51c9) |
-| `MS365` | Formatting Presentations in PowerPoint Microsoft 365 | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/95f42fc5-4671-424f-8e91-8708b70f4438) |
-| `MS365` | Creating Presentations in PowerPoint Microsoft 365 | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/2e43668f-6fd0-45d1-a874-47ad09642b86) |
-| `Dev` | Setting Up & Managing Spaces in Confluence Web | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/344d16ce-8d4f-4bb3-bd4f-0c2ab885e9ce) |
-| `Dev` | Planning & Working on a Software Project in Jira Cloud | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/d8e695a6-17d5-40a8-98f5-dcb816982827) |
-| `PD` | Michelle Boockoff-Bajdek on Public Speaking From A to D (Analog to Digital) | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/6df4d87a-16a4-4c18-8005-96fc24bb5ad0) |
-| `BigData` | Database Fundamentals: Database Concepts | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/c524d062-4efa-4fc6-969a-3b36795adff1) |
-| `MS365` | Getting Started in PowerPoint Microsoft 365 | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/b082b98d-cb6d-4524-92e3-942cceb48521) |
-| `Dev` | Software Design and Development: Modeling with UML | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/95cd2cd2-2c5f-4f54-a436-8b6382546175) |
-| `Dev` | Software Design and Development: Methodologies | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/543b98e0-f659-400c-8aaf-ed308e06faf6) |
+| `BigData` | Graph Analytics with Neo4j: An Introduction to Graph Databases & Neo4j | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/c96be629-a293-4ebb-9500-4efc40d26e18) |
+| `BigData` | Database Fundamentals: Understanding Relational Database Management Systems | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/bc60713a-3a37-47c9-85e8-3dfb0d89ac79) |
+| `BigData` | Non-relational Data: Non-relational Databases | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/f300ae07-8bdc-440b-ac8b-b989805bbd23) |
+| `BigData` | Database Fundamentals: Getting Started with SQL | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/7ebb18ce-ce4a-4aed-91bb-26e3294fa6e9) |
+| `Cloud` | AWS Cloud Practitioner 2022: Core AWS Services | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/2c98330c-b41d-4bdd-b09d-3073e15fac96) |
+| `BigData` | Evaluating Systems with Data Modeling | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/be894ef6-b567-49f8-aaee-45dee1b1b84f) |
+| `BigData` | Organizing Business Data with Data Modeling | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/b7e33058-1317-437d-8d3c-4427b3635c21) |
+| `BigData` | Database Fundamentals: Database Administration Basics | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/a25e43da-d382-46ce-b215-1c67337b51c9) |
+| `MS365` | Formatting Presentations in PowerPoint Microsoft 365 | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/95f42fc5-4671-424f-8e91-8708b70f4438) |
+| `MS365` | Creating Presentations in PowerPoint Microsoft 365 | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/2e43668f-6fd0-45d1-a874-47ad09642b86) |
+| `Dev` | Setting Up & Managing Spaces in Confluence Web | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/344d16ce-8d4f-4bb3-bd4f-0c2ab885e9ce) |
+| `Dev` | Planning & Working on a Software Project in Jira Cloud | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/d8e695a6-17d5-40a8-98f5-dcb816982827) |
+| `PD` | Michelle Boockoff-Bajdek on Public Speaking From A to D (Analog to Digital) | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/6df4d87a-16a4-4c18-8005-96fc24bb5ad0) |
+| `BigData` | Database Fundamentals: Database Concepts | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/c524d062-4efa-4fc6-969a-3b36795adff1) |
+| `MS365` | Getting Started in PowerPoint Microsoft 365 | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/b082b98d-cb6d-4524-92e3-942cceb48521) |
+| `Dev` | Software Design and Development: Modeling with UML | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/95cd2cd2-2c5f-4f54-a436-8b6382546175) |
+| `Dev` | Software Design and Development: Methodologies | [:white_check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/543b98e0-f659-400c-8aaf-ed308e06faf6) |
 ---
 ### **Feb, 2023**
 |**Domain**|**Course**|**Certificate**|**Badge**|
 |:--------:|:---------|:-------------:|:-------:|
-| `Dev` | Software Design and Development: Software Engineering & SDLC Phases | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/5bd2a157-c20e-4a4f-923a-7000eb90c631) |
-| `Cloud` | Azure Data Fundamentals: Azure Data Ingestion & Processing | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/e9a23019-922c-4bfa-9b4f-4248e44ef827) |
-| `BigData` | Traditional Data Architectures: Data Warehousing and ETL Systems | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/698a140d-097a-45b2-9ab5-8bdf73ceb6b8) |
-| `BigData` | QlikView: Extract, Transform, & Load (ETL) | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/8f761a5c-b63b-4699-8bac-99276e4bf627) |
-| `Cloud` | CompTIA Server+: Servers & Cloud Computing | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/d4e22302-4fa2-4ed8-908c-693e0772bd18) |
-| `Cloud` | Cloud Data Platforms: Cloud-based Applications & Storage | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/8b71f6f6-bd53-4508-9c12-1a77509dba72) |
-| `Cloud` | Cloud Data Platforms: AWS, Azure, & GCP Comparison | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/12dfadbe-a338-4156-8e09-692108eae768) |
+| `Dev` | Software Design and Development: Software Engineering & SDLC Phases | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Software%20Design%20and%20Development_%20Software%20Engineering%20%26%20SDLC%20Phases.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/5bd2a157-c20e-4a4f-923a-7000eb90c631) |
+| `Cloud` | Azure Data Fundamentals: Azure Data Ingestion & Processing | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Azure%20Data%20Fundamentals_%20Azure%20Data%20Ingestion%20%26%20Processing.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/e9a23019-922c-4bfa-9b4f-4248e44ef827) |
+| `BigData` | Traditional Data Architectures: Data Warehousing and ETL Systems | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Traditional%20Data%20Architectures_%20Data%20Warehousing%20and%20ETL%20Systems.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/698a140d-097a-45b2-9ab5-8bdf73ceb6b8) |
+| `BigData` | QlikView: Extract, Transform, & Load (ETL) | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/QlikView_%20Extract%2C%20Transform%2C%20%26%20Load%20(ETL).pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/8f761a5c-b63b-4699-8bac-99276e4bf627) |
+| `Cloud` | CompTIA Server+: Servers & Cloud Computing | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/CompTIA%20Server%2B_%20Servers%20%26%20Cloud%20Computing.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/d4e22302-4fa2-4ed8-908c-693e0772bd18) |
+| `Cloud` | Cloud Data Platforms: Cloud-based Applications & Storage | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Cloud%20Data%20Platforms_%20Cloud-based%20Applications%20%26%20Storage.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/8b71f6f6-bd53-4508-9c12-1a77509dba72) |
+| `Cloud` | Cloud Data Platforms: AWS, Azure, & GCP Comparison | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Cloud%20Data%20Platforms_%20AWS%2C%20Azure%2C%20%26%20GCP%20Comparison.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/12dfadbe-a338-4156-8e09-692108eae768) |
 | `Cloud` | Cloud Data Platforms: Cloud Computing | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Cloud%20Data%20Platforms_%20Cloud%20Computing.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/ff49d51b-5fd5-4351-9b60-aec1e4936214) |
 | `SQL` | Working with Functions, Times, Dates, & Intervals | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Working%20with%20Functions%2C%20Times%2C%20Dates%2C%20%26%20Intervals.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/3994e60a-cf69-4187-b1b3-bd06f049bb8c) |
 | `SQL` | Designing & Implementing Views | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Designing%20%26%20Implementing%20Views.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/9c68de3b-cfa3-40c3-b750-5e38b76d4b84) |
