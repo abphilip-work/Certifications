@@ -14,11 +14,11 @@
 ### **Apr, 2023**
 |**Domain**|**Course**|**Certificate**|**Badge**|
 |:--------:|:---------|:-------------:|:-------:|
-| `Cloud` | Cloud Computing and MLOps: ML Pipelines | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/15a40e29-73b6-43be-b2f9-46e6065e23e9) |
-| `Dev` | Automated Testing & Deployment | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/6e6616b5-1c78-4bc2-8eb3-564f4fa53a2a) |
-| `Cloud` | Data Engineering on Microsoft Azure: Databrick Processing | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/3aa3774f-a2c8-4fa4-850f-cfd62cb83ff2) |
-| `MS365` | Designing your slides in PowerPoint 365 | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/ab0b8d3e-8783-4eb8-898c-8a641b029e67) |
-| `MS365` | Using images in PowerPoint 365 | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/40cd7f7e-f6a8-4ff5-8312-cbc4be33462c) |
+| `Cloud` | Cloud Computing and MLOps: ML Pipelines | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Cloud%20Computing%20and%20MLOps_%20ML%20Pipelines.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/15a40e29-73b6-43be-b2f9-46e6065e23e9) |
+| `Dev` | Automated Testing & Deployment | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Automated%20Testing%20%26%20Deployment.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/6e6616b5-1c78-4bc2-8eb3-564f4fa53a2a) |
+| `Cloud` | Data Engineering on Microsoft Azure: Databrick Processing | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Data%20Engineering%20on%20Microsoft%20Azure_%20Databrick%20Processing.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/3aa3774f-a2c8-4fa4-850f-cfd62cb83ff2) |
+| `MS365` | Designing your slides in PowerPoint 365 | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Designing%20your%20slides%20in%20PowerPoint%20365.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/ab0b8d3e-8783-4eb8-898c-8a641b029e67) |
+| `MS365` | Using images in PowerPoint 365 | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Using%20images%20in%20PowerPoint%20365.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/40cd7f7e-f6a8-4ff5-8312-cbc4be33462c) |
 | `BigData` | Data Lake Sources, Visualizations, & ETL Operations | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/14371b66-e66e-446b-bc17-a9e53d8dc2b1) |
 | `MS365` | Deep Dive into the Project Schedule (2021 Update) | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/3a84821c-5641-4569-82db-95275b1f7139) |
 | `BigData` | Data Flow Implementation & ETL | [:check_mark:]() | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/4851ae1d-faa4-4eed-ac9c-1fc1fab89c16) |
