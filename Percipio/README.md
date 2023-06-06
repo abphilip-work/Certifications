@@ -1,4 +1,9 @@
 # ZS: Percipio
+### **June, 2023**
+|**Domain**|**Course**|**Certificate**|**Badge**|
+|:--------:|:---------|:-------------:|:-------:|
+| `Dev` | Agile Foundations: Fundamentals | [:white_check_mark:]() | [:white_check_mark:]() |
+---
 ### **May, 2023**
 |**Domain**|**Course**|**Certificate**|**Badge**|
 |:--------:|:---------|:-------------:|:-------:|
