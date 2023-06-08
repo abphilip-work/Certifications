@@ -2,7 +2,8 @@
 ### **June, 2023**
 |**Domain**|**Course**|**Certificate**|**Badge**|
 |:--------:|:---------|:-------------:|:-------:|
-| `Dev` | Agile Foundations: Fundamentals | [:white_check_mark:]() | [:white_check_mark:]() |
+| `Cloud` | Defining Cloud Computing for Decision-makers: Cloud Computing Principles | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Defining%20Cloud%20Computing%20for%20Decision-makers_%20Cloud%20Computing%20Principles.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/cfceb004-8784-46ca-8749-51e004ced6f5) |
+| `Dev` | Agile Foundations: Fundamentals | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Agile%20Foundations_%20Fundamentals.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/85124182-95bd-44d3-8690-a8ba35f45804) |
 ---
 ### **May, 2023**
 |**Domain**|**Course**|**Certificate**|**Badge**|
@@ -42,6 +43,9 @@
 | `BigData` | Evaluating Systems with Data Modeling | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Evaluating%20Systems%20with%20Data%20Modeling.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/be894ef6-b567-49f8-aaee-45dee1b1b84f) |
 | `BigData` | Organizing Business Data with Data Modeling | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Organizing%20Business%20Data%20with%20Data%20Modeling.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/b7e33058-1317-437d-8d3c-4427b3635c21) |
 | `BigData` | Database Fundamentals: Database Administration Basics | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Database%20Fundamentals_%20Database%20Administration%20Basics.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/a25e43da-d382-46ce-b215-1c67337b51c9) |
+| `MS365` | Inserting text in PowerPoint 365 | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Inserting%20text%20in%20PowerPoint%20365.pdf) | |
+| `MS365` | Saving & Sharing Presentations in PowerPoint 365 | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Saving%20%26%20Sharing%20Presentations%20in%20PowerPoint%20365.pdf) | |
+| `MS365` | Ten common tools in PowerPoint 365 | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Ten%20common%20tools%20in%20PowerPoint%20365.pdf) | |
 | `MS365` | Formatting Presentations in PowerPoint Microsoft 365 | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Formatting%20Presentations%20in%20PowerPoint%20Microsoft%20365.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/95f42fc5-4671-424f-8e91-8708b70f4438) |
 | `MS365` | Creating Presentations in PowerPoint Microsoft 365 | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Creating%20Presentations%20in%20PowerPoint%20Microsoft%20365.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/2e43668f-6fd0-45d1-a874-47ad09642b86) |
 | `Dev` | Setting Up & Managing Spaces in Confluence Web | [:white_check_mark:](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Setting%20Up%20%26%20Managing%20Spaces%20in%20Confluence%20Web.pdf) | [:white_check_mark:](https://skillsoft.digitalbadges.skillsoft.com/344d16ce-8d4f-4bb3-bd4f-0c2ab885e9ce) |
