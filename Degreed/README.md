@@ -2,6 +2,7 @@
 ### **Digital Literacy**
 |**Domain**|**Pathway**|**Status**|
 |:--------:|:---------|:-------------:|
+| `PD` | Story Telling & Data Visualizations | :white_check_mark: |
 | `Dev` | Agile Delivery | :white_check_mark: |
 | `BigData` | Big Data | :white_check_mark: |
 | `Cloud` | Computing (Cloud, Quantum) | :white_check_mark: |
