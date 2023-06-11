@@ -20,10 +20,11 @@ permissions:
 concurrency:
   group: "pages"
   cancel-in-progress: false
-
+  
 jobs:
   # Build job
   build:
+    
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
