@@ -1,13 +1,5 @@
 # ZS: Degreed
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### **Digital Literacy**
+## **Digital Literacy**
 
 |**Domain**|**Pathway**|**Status**|
 |:--------:|:---------|:-------------:|
@@ -18,6 +10,7 @@
 | `Python` | Intelligent Automation Technologies | :white_check_mark: |
 
 ---
+
 ### **Rapid Skilling**
 
 |**Domain**|**Pathway**|**Basics**|**Intermediate**|**Advanced**|**Labs**|
