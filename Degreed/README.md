@@ -1,5 +1,14 @@
 # ZS: Degreed
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
 ### **Digital Literacy**
+
 |**Domain**|**Pathway**|**Status**|
 |:--------:|:---------|:-------------:|
 | `PD` | Story Telling & Data Visualizations | :white_check_mark: |
@@ -7,8 +16,10 @@
 | `BigData` | Big Data | :white_check_mark: |
 | `Cloud` | Computing (Cloud, Quantum) | :white_check_mark: |
 | `Python` | Intelligent Automation Technologies | :white_check_mark: |
+
 ---
 ### **Rapid Skilling**
+
 |**Domain**|**Pathway**|**Basics**|**Intermediate**|**Advanced**|**Labs**|
 |:--------:|:---------|:---------:|:---------:|:--------:|:---------:|
 | `MS365` | Excel | :white_check_mark: | :white_check_mark: | :white_check_mark: | |
