@@ -1,7 +1,3 @@
----
-layout: default
----
-
 Hi, **I'm Allen.**
 Analytics Associate working at ZS 
 
