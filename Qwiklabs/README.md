@@ -1,4 +1,4 @@
-# Degreed
+# Google Cloud Qwiklabs
 
 ### **Digital Literacy**
 

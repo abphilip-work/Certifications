@@ -1,4 +1,4 @@
-# Degreed
+# LinkedIn Learning
 
 ### **Digital Literacy**
 
