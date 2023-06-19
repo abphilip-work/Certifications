@@ -16,10 +16,10 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1><br/>
       <!-- <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2> -->
-        <a href="{{ '/Coursera' | append: site.github.build_revision | relative_url }}" class="btn">Coursera</a>
-        <a href="{{ '/Degreed' | append: site.github.build_revision | relative_url }}" class="btn">Degreed</a>
-        <a href="{{ '/MyLearning' | append: site.github.build_revision | relative_url }}" class="btn">ZS MyLearning</a>
-        <a href="{{ '/Percipio' | append: site.github.build_revision | relative_url }}" class="btn">Percipio</a>
+        <a href="{{ '/Coursera' | relative_url }}" class="btn">Coursera</a>
+        <a href="{{ '/Degreed' | relative_url }}" class="btn">Degreed</a>
+        <a href="{{ '/MyLearning' | relative_url }}" class="btn">ZS MyLearning</a>
+        <a href="{{ '/Percipio' | relative_url }}" class="btn">Percipio</a>
     </header>
 
     <main id="content" class="main-content" role="main">
