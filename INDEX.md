@@ -1,8 +1,5 @@
 ---
 layout: default
-permalink: /index
-redirect_from:
-  - /
 ---
 
 Hi, **I'm Allen.**
