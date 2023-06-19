@@ -1,3 +1,12 @@
-# Certifications
+---
+layout: default
+---
 
-[<kbd> <br> ZS MyLearning <br> </kbd>](https://github.com/abphilip-work/Certifications/blob/master/MyLearning/README.md) [<kbd> <br> Percipio <br> </kbd>](https://github.com/abphilip-work/Certifications/blob/master/Percipio/README.md) [<kbd> <br> Coursera <br> </kbd>](https://github.com/abphilip-work/Certifications/blob/master/Coursera/README.md) [<kbd> <br> Degreed <br> </kbd>](https://github.com/abphilip-work/Certifications/blob/master/Degreed/README.md) [<kbd> <br> Google Cloud Qwiklabs <br> </kbd>](https://github.com/abphilip-work/Certifications/blob/master/Qwiklabs/README.md) [<kbd> <br> LinkedIn Learning <br> </kbd>](https://github.com/abphilip-work/Certifications/blob/master/LinkedIn/README.md)
+Hi, **I'm Allen**
+Analytics Associate Working at ZS 
+
+- 🌱 I’m currently learning Python, Spark, SQL, and services from AWS & GCP
+- 👯 I’m looking to collaborate on Data Science Projects
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/allenbphilip/)
+
+You can find all my certifications in this repository.
