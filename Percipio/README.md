@@ -1,4 +1,4 @@
-# ZS: Percipio
+# Percipio
 ### **June, 2023**
 |**Domain**|**Course**|**Certificate**|**Badge**|
 |:--------:|:---------|:-------------:|:-------:|

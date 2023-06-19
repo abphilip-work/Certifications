@@ -1,4 +1,4 @@
-# ZS: Degreed
+# Degreed
 ### **Digital Literacy**
 |**Domain**|**Pathway**|**Status**|
 |:--------:|:---------|:-------------:|
