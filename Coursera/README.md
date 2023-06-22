@@ -1,4 +1,4 @@
-# Coursera
+# **Coursera**
 
 |**Domain**|**Course**|**Certificate**|**Badge**|
 |:--------:|:---------|:-------------:|:-------:|

@@ -1,4 +1,4 @@
-# ZS MyLearning
+# **MyLearning ZS**
 
 |**Domain**|**Course**|**Certificate**|
 |:--------:|:---------|:-------------:|
