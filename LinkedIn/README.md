@@ -1,4 +1,4 @@
-### **LinkedIn Learning**
+## **LinkedIn Learning**
 
 |**Domain**|**Pathway**|**Status**|
 |:--------:|:---------|:-------------:|

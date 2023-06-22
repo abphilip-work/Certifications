@@ -1,4 +1,4 @@
-### **Degreed**
+## **Degreed**
 
 **Digital Literacy**
 
