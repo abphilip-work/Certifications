@@ -1,4 +1,4 @@
-### **About Me** <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture>
+### **About Me** <picture><img src = "assets/about_me.gif" width = 30px></picture>
 
 Hi, I'm Allen. An Analytics Associate at ZS.
 - 🎓 A data enthusiast with a passion for solving business problems.

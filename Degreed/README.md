@@ -1,6 +1,6 @@
-# **Degreed**
+### **Degreed**
 
-### **Digital Literacy**
+**Digital Literacy**
 
 |**Domain**|**Pathway**|**Status**|
 |:--------:|:---------|:-------------:|
@@ -10,8 +10,7 @@
 | `Cloud` | Computing (Cloud, Quantum) | ✅ |
 | `Python` | Intelligent Automation Technologies | ✅ |
 
-
-### **Rapid Skilling**
+**Rapid Skilling**
 
 |**Domain**|**Pathway**|**Basics**|**Intermediate**|**Advanced**|**Labs**|
 |:--------:|:---------|:---------:|:---------:|:--------:|:---------:|

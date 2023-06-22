@@ -1,13 +1,13 @@
-# **Skillsoft Percipio**
+### **Skillsoft Percipio**
 
-### **June, 2023**
+**June, 2023**
 
 |**Domain**|**Course**|**Certificate**|**Badge**|
 |:--------:|:---------|:-------------:|:-------:|
 | `Cloud` | Defining Cloud Computing for Decision-makers: Cloud Computing Principles | [✅](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Defining%20Cloud%20Computing%20for%20Decision-makers_%20Cloud%20Computing%20Principles.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/cfceb004-8784-46ca-8749-51e004ced6f5) |
 | `Dev` | Agile Foundations: Fundamentals | [✅](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Agile%20Foundations_%20Fundamentals.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/85124182-95bd-44d3-8690-a8ba35f45804) |
 
-### **May, 2023**
+**May, 2023**
 
 |**Domain**|**Course**|**Certificate**|**Badge**|
 |:--------:|:---------|:-------------:|:-------:|
@@ -20,7 +20,7 @@
 | `Dev` | Test Automation: Automated Software Testing | [✅](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Test%20Automation_%20Automated%20Software%20Testing.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/3be0736d-d3ea-4c5d-b20d-6b613882011e) |
 | `ML` | Machine Learning Introduction | [✅](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Machine%20Learning%20Introduction.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/26415cb1-fbb2-45d9-85df-3e0bf6d7caa6) |
 
-### **Apr, 2023**
+**Apr, 2023**
 
 |**Domain**|**Course**|**Certificate**|**Badge**|
 |:--------:|:---------|:-------------:|:-------:|
@@ -36,7 +36,7 @@
 | `MS365` | Control the Project Schedule (PMBOK® Guide Sixth Edition) | [✅](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Control%20the%20Project%20Schedule%20(PMBOK%C2%AE%20Guide%20Sixth%20Edition).pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/abf18aa1-2ea3-49ee-aab5-821f9c488291) |
 | `MS365` | Using & Formatting Gantt Charts in Project 2019 (Online Desktop Client) | [✅](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Using%20%26%20Formatting%20Gantt%20Charts%20in%20Project%202019%20(Online%20Desktop%20Client).pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/d975ac99-52f2-4b9c-a67e-643cbf28fff8) |
 
-### **Mar, 2023**
+**Mar, 2023**
 
 |**Domain**|**Course**|**Certificate**|**Badge**|
 |:--------:|:---------|:-------------:|:-------:|
@@ -61,7 +61,7 @@
 | `Dev` | Software Design and Development: Modeling with UML | [✅](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Software%20Design%20and%20Development_%20Modeling%20with%20UML.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/95cd2cd2-2c5f-4f54-a436-8b6382546175) |
 | `Dev` | Software Design and Development: Methodologies | [✅](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Software%20Design%20and%20Development_%20Methodologies.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/543b98e0-f659-400c-8aaf-ed308e06faf6) |
 
-### **Feb, 2023**
+**Feb, 2023**
 
 |**Domain**|**Course**|**Certificate**|**Badge**|
 |:--------:|:---------|:-------------:|:-------:|
@@ -81,7 +81,7 @@
 | `BigData` | Big Data Concepts: Getting to Know Big Data | [✅](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Big%20Data%20Concepts_%20Getting%20to%20Know%20Big%20Data.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/b1d5bfcb-bf77-4efd-9d09-dbd32d42bd5a) |
 | `Cloud` | AWS Cloud Practitioner 2020: Cloud & the Value Proposition | [✅](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/AWS%20Cloud%20Practitioner%202020_%20Cloud%20%26%20the%20Value%20Proposition.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/6b27c559-1cc6-4504-93e5-922889f63e5b) |
 
-### **Jan, 2023**
+**Jan, 2023**
 
 |**Domain**|**Course**|**Certificate**|**Badge**|
 |:--------:|:---------|:-------------:|:-------:|
@@ -91,13 +91,13 @@
 | `SQL` | SQL 2016 Tables | [✅](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/SQL%202016%20Tables.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/8af40e90-09d5-4a9a-881f-9f5654bfcdb1) |
 | `Python` | Python Development: Creating Classes, Handling Errors, & Importing Modules | [✅](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Python%20Development_%20Creating%C2%A0Classes%2C%C2%A0Handling%C2%A0Errors%2C%20%26%C2%A0Importing%C2%A0Modules.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/6d9e6812-0c08-4dfc-b2da-3e0747a9219d) |
 
-### **Nov, 2022**
+**Nov, 2022**
 
 |**Domain**|**Course**|**Certificate**|**Badge**|
 |:--------:|:---------|:-------------:|:-------:|
 | `BigData` | Apache Spark Getting Started | [✅](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Apache%20Spark%20Getting%20Started.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/fe9b6e3b-9434-400c-9bc4-69e9a746cb41) |
 
-### **Oct, 2022**
+**Oct, 2022**
 
 |**Domain**|**Course**|**Certificate**|**Badge**|
 |:--------:|:---------|:-------------:|:-------:|
@@ -110,7 +110,7 @@
 | `Python` | Complex Data Types in Python: Working with Lists & Tuples in Python | [✅](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Complex%20Data%20Types%20in%20Python_%20Working%20with%20Lists%20%26%20Tuples%20in%20Python.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/cc960b13-1103-4031-babe-90950c1f0b65) |
 | `Python` | Getting Started with Python: Introduction | [✅](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Getting%20Started%20with%20Python_%20Introduction.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/12060326-9761-43f4-a30b-9830fe5ce160) |
 
-### **Apr, 2022**
+**Apr, 2022**
 
 |**Domain**|**Course**|**Certificate**|**Badge**|
 |:--------:|:---------|:-------------:|:-------:|
@@ -121,7 +121,7 @@
 | `PD` | Managing Your Time So It Doesn’t Manage You | [✅](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Managing%20Your%20Time%20So%20It%20Doesn%E2%80%99t%20Manage%20You.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/32ca885a-6a9d-474d-ad8d-3eaad258b960) |
 | `PD` | Maximize Your Productivity by Managing Time and Tasks | [✅](https://github.com/abphilip-work/ZS-Certifications/blob/master/Percipio/Achievements/Maximize%20Your%20Productivity%20by%20Managing%20Time%20and%20Tasks.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/f75eca7b-07c4-4bd7-9d99-cb8862b7de4f) |
 
-### **Mar, 2022**
+**Mar, 2022**
 
 |**Domain**|**Course**|**Certificate**|**Badge**|
 |:--------:|:---------|:-------------:|:-------:|
