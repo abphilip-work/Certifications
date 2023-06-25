@@ -1,8 +1,8 @@
 ## **HackerRank**
 
- #### **Profile** [🏷️](https://www.hackerrank.com/idk_the_answers)
+**Profile** [📍](https://www.hackerrank.com/idk_the_answers)
 
-#### **Certifications**
+**Certifications**
 
 |**Skill**|**Basic**|**Intermediate**|
 |:---------|:------:|:----------:|
@@ -13,7 +13,7 @@
 | JavaScript | [✅](https://www.hackerrank.com/certificates/15a72ed34c08) | [✅](https://www.hackerrank.com/certificates/947a39a12f85) |
 | Problem Solving | [✅](https://www.hackerrank.com/certificates/50bfb6b47406) | [✅](https://www.hackerrank.com/certificates/94992adf1706) |
 
-#### **Badges**
+**Badges**
 
 |**Skill**|**Stars**|
 |:---------|:-------------:|
