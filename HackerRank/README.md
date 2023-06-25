@@ -2,14 +2,23 @@
 
 **Certifications**
 
-|**Skill**|**Certificate**|**Badge**|
-|:---------|:-------------:|:-------:|
-| R Programming | [✅](https://github.com/abphilip-work/ZS-Certifications/blob/master/Coursera/Achievements/Coursera%205SL5D2UQHLNK.pdf) | [✅](https://coursera.org/share/72c67630a7370f8efdc4539b5cc2302d) |
-| Excel Skills for Business: Advanced | [✅](https://github.com/abphilip-work/ZS-Certifications/blob/master/Coursera/Achievements/Coursera%20YAR53VHCYW8Z.pdf) | [✅](https://coursera.org/share/7cd3b36cd035bf5c9855f87b5e152795) |
-| Getting Started with Power BI Desktop | [✅](https://github.com/abphilip-work/ZS-Certifications/blob/master/Coursera/Achievements/Coursera%2024YTQ7T8Z9VV.pdf) | [✅](https://coursera.org/share/ccad609502c365dfa2ca032727457772) |
+|**Skill**|**Basic**|**Intermediate**|
+|:---------|:------:|:----------:|
+| CSS | [✅](https://www.hackerrank.com/certificates/74e2c133af56) |
+| Java | [✅](https://www.hackerrank.com/certificates/4df727d4313d) |
+| Python | [✅](https://www.hackerrank.com/certificates/b62c983ccd51) |
+| SQL | [✅](https://www.hackerrank.com/certificates/6ff6bdfb759d) | [✅](https://www.hackerrank.com/certificates/1a7c76db90d8) |
+| JavaScript | [✅](https://www.hackerrank.com/certificates/15a72ed34c08) | [✅](https://www.hackerrank.com/certificates/947a39a12f85) |
+| Problem Solving | [✅](https://www.hackerrank.com/certificates/50bfb6b47406) | [✅](https://www.hackerrank.com/certificates/94992adf1706) |
 
 **Badges**
 
-|**Skill**|**Stars**|**Badge**|
-|:---------|:-------------:|:-------:|
-| Programming for Everybody (Getting Started with Python) | [✅](https://github.com/abphilip-work/ZS-Certifications/blob/master/Coursera/Achievements/Coursera%20B8CTZ5H97WYC.pdf) | [✅](https://coursera.org/share/390dd80f05ad1990b746c257175b8a9b) |
+|**Skill**|**Stars**|
+|:---------|:-------------:|
+| SQL | ⭐⭐⭐⭐⭐ |
+| Java | ⭐⭐⭐⭐⭐ |
+| Python | ⭐⭐⭐⭐⭐ |
+| Problem Solving | ⭐⭐⭐⭐⭐⭐ |
+| 10 Days of JS | ⭐⭐⭐⭐⭐ |
+| 30 Days of Code | ⭐⭐⭐⭐⭐ |
+| 10 Days of Statistics | ⭐⭐⭐⭐⭐ |
