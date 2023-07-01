@@ -1,6 +1,6 @@
 ## **Skillsoft Percipio**
 
-**June, 2023**
+**Jun, 2023**
 
 |**Domain**|**Course**|**Certificate**|**Badge**|
 |:--------:|:---------|:-------------:|:-------:|
