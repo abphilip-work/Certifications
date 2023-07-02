@@ -2,18 +2,21 @@
 
 **Digital Literacy**
 
-|**Domain**|**Pathway**|**Status**|
-|:--------:|:---------|:-------------:|
-| `PD` | Story Telling & Data Visualizations | ✅ |
-| `Dev` | Agile Delivery | ✅ |
-| `BigData` | Big Data | ✅ |
-| `Cloud` | Computing (Cloud, Quantum) | ✅ |
-| `Python` | Intelligent Automation Technologies | ✅ |
+|**Domain**|**Section**|**Pathway**|**Status**|
+|:--------:|:---------:|:----------|:--------:|
+| `PD` | Business Acumen | Digital Transformation | ✅ |
+| `PD` | Business Acumen | Business Models | ✅ |
+| `PD` | Business Acumen | Regulations and Privacy, Data Ethics | ✅ |
+| `PD` | Innovation Mindset | Story Telling & Data Visualizations | ✅ |
+| `Dev` | Innovation Mindset | Agile Delivery | ✅ |
+| `BigData` | Tech Expertise | Big Data | ✅ |
+| `Cloud` | Tech Expertise | Computing (Cloud, Quantum) | ✅ |
+| `Python` | Tech Expertise | Intelligent Automation Technologies | ✅ |
 
 **Rapid Skilling**
 
 |**Domain**|**Pathway**|**Basics**|**Intermediate**|**Advanced**|**Labs**|
-|:--------:|:---------|:---------:|:---------:|:--------:|:---------:|
+|:--------:|:----------|:--------:|:--------------:|:----------:|:------:|
 | `MS365` | Excel | ✅ | ✅ | ✅ | |
 | `Python` | Python | ✅ | ✅ | ✅ | |
 | `BigData` | Big Data | ✅ | ✅ | | |
