@@ -1,11 +1,23 @@
-## **HackerRank**
+## **Kaggle** [📍](https://www.kaggle.com/allenbphilip)
 
-**Profile** [📍](https://www.hackerrank.com/idk_the_answers)
+**Certifications**
+
+|**Course**|**Certificate**|**Badge**|
+|:---------|:-------------:|:-------:|
+| Intro to Programming | [✅](https://github.com/abphilip-work/Certifications/blob/master/Others/Achievements/Kaggle%20Intro%20to%20Programming.png) | [✅](https://www.kaggle.com/learn/certification/allenbphilip/intro-to-programming) |
+| Python | [✅](https://github.com/abphilip-work/Certifications/blob/master/Others/Achievements/Kaggle%20Python.png) | [✅](https://www.kaggle.com/learn/certification/allenbphilip/python) |
+| Intro to Machine Learning | [✅](https://github.com/abphilip-work/Certifications/blob/master/Others/Achievements/Kaggle%20Intro%20to%20Machine%20Learning.png) | [✅](https://www.kaggle.com/learn/certification/allenbphilip/intro-to-machine-learning) |
+| Pandas | [✅](https://github.com/abphilip-work/Certifications/blob/master/Others/Achievements/Kaggle%20Pandas.png) | [✅](https://www.kaggle.com/learn/certification/allenbphilip/pandas) |
+| Intermediate Machine Learning | [✅](https://github.com/abphilip-work/Certifications/blob/master/Others/Achievements/Kaggle%20Intermediate%20Machine%20Learning.png) | [✅](https://www.kaggle.com/learn/certification/allenbphilip/intermediate-machine-learning) |
+
+---
+
+## **HackerRank** [📍](https://www.hackerrank.com/idk_the_answers)
 
 **Certifications**
 
 |**Skill**|**Basic**|**Intermediate**|
-|:---------|:------:|:----------:|
+|:--------|:-------:|:--------------:|
 | CSS | [✅](https://www.hackerrank.com/certificates/74e2c133af56) |
 | Java | [✅](https://www.hackerrank.com/certificates/4df727d4313d) |
 | Python | [✅](https://www.hackerrank.com/certificates/b62c983ccd51) |
@@ -16,7 +28,7 @@
 **Badges**
 
 |**Skill**|**Stars**|
-|:---------|:-------------:|
+|:--------|:-------:|
 | SQL | ⭐⭐⭐⭐⭐ |
 | Java | ⭐⭐⭐⭐⭐ |
 | Python | ⭐⭐⭐⭐⭐ |
@@ -24,8 +36,3 @@
 | 10 Days of JS | ⭐⭐⭐⭐⭐ |
 | 30 Days of Code | ⭐⭐⭐⭐⭐ |
 | 10 Days of Statistics | ⭐⭐⭐⭐⭐ |
-
-
-## **Kaggle**
-
-**Profile** [📍](https://www.kaggle.com/allenbphilip)
