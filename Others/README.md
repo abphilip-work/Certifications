@@ -12,8 +12,10 @@
 
 ## **HackerRank** [📍](https://www.hackerrank.com/idk_the_answers)
 
-|**Certification**|**Basic**|**Intermediate**|
-|:----------------|:-------:|:--------------:|
+**Certifications**
+
+|**Skill**|**Basic**|**Intermediate**|
+|:--------|:-------:|:--------------:|
 | CSS | [✅](https://www.hackerrank.com/certificates/74e2c133af56) |
 | Java | [✅](https://www.hackerrank.com/certificates/4df727d4313d) |
 | Python | [✅](https://www.hackerrank.com/certificates/b62c983ccd51) |
@@ -21,7 +23,9 @@
 | JavaScript | [✅](https://www.hackerrank.com/certificates/15a72ed34c08) | [✅](https://www.hackerrank.com/certificates/947a39a12f85) |
 | Problem Solving | [✅](https://www.hackerrank.com/certificates/50bfb6b47406) | [✅](https://www.hackerrank.com/certificates/94992adf1706) |
 
-|**Badge**|**Stars**|
+**Badges**
+
+|**Skill**|**Stars**|
 |:--------|:-------:|
 | SQL | ⭐⭐⭐⭐⭐ |
 | Java | ⭐⭐⭐⭐⭐ |
