@@ -7,6 +7,11 @@
 | Intro to Machine Learning | [✅](https://github.com/abphilip-work/Certifications/blob/master/Others/Achievements/Kaggle%20Intro%20to%20Machine%20Learning.png) | [✅](https://www.kaggle.com/learn/certification/allenbphilip/intro-to-machine-learning) |
 | Pandas | [✅](https://github.com/abphilip-work/Certifications/blob/master/Others/Achievements/Kaggle%20Pandas.png) | [✅](https://www.kaggle.com/learn/certification/allenbphilip/pandas) |
 | Intermediate Machine Learning | [✅](https://github.com/abphilip-work/Certifications/blob/master/Others/Achievements/Kaggle%20Intermediate%20Machine%20Learning.png) | [✅](https://www.kaggle.com/learn/certification/allenbphilip/intermediate-machine-learning) |
+| Data Visualization | [✅](https://github.com/abphilip-work/Certifications/blob/master/Others/Achievements/Kaggle%20Data%20Visualization.png) | [✅](https://www.kaggle.com/learn/certification/allenbphilip/data-visualization) |
+| Feature Engineering | [✅](https://github.com/abphilip-work/Certifications/blob/master/Others/Achievements/Kaggle%20Feature%20Engineering.png) | [✅](https://www.kaggle.com/learn/certification/allenbphilip/feature-engineering) |
+| Intro to SQL | [✅](https://github.com/abphilip-work/Certifications/blob/master/Others/Achievements/Kaggle%20Intro%20to%20SQL.png) | [✅](https://www.kaggle.com/learn/certification/allenbphilip/intro-to-sql) |
+| Advanced SQL | [✅](https://github.com/abphilip-work/Certifications/blob/master/Others/Achievements/Kaggle%20Advanced%20SQL.png) | [✅](https://www.kaggle.com/learn/certification/allenbphilip/advanced-sql) |
+| Intro to Deep Learning | [✅](https://github.com/abphilip-work/Certifications/blob/master/Others/Achievements/Kaggle%20Intro%20to%20Deep%20Learning.png) | [✅](https://www.kaggle.com/learn/certification/allenbphilip/intro-to-deep-learning) |
 
 <br>
 
