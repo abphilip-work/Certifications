@@ -12,6 +12,13 @@
 | Intro to SQL | [✅](https://github.com/abphilip-work/Certifications/blob/master/Others/Achievements/Kaggle%20Intro%20to%20SQL.png) | [✅](https://www.kaggle.com/learn/certification/allenbphilip/intro-to-sql) |
 | Advanced SQL | [✅](https://github.com/abphilip-work/Certifications/blob/master/Others/Achievements/Kaggle%20Advanced%20SQL.png) | [✅](https://www.kaggle.com/learn/certification/allenbphilip/advanced-sql) |
 | Intro to Deep Learning | [✅](https://github.com/abphilip-work/Certifications/blob/master/Others/Achievements/Kaggle%20Intro%20to%20Deep%20Learning.png) | [✅](https://www.kaggle.com/learn/certification/allenbphilip/intro-to-deep-learning) |
+| Computer Vision | [✅](https://github.com/abphilip-work/Certifications/blob/master/Others/Achievements/Kaggle%20Computer%20Vision.png) | [✅](https://www.kaggle.com/learn/certification/allenbphilip/computer-vision) |
+| Time Series | [✅](https://github.com/abphilip-work/Certifications/blob/master/Others/Achievements/Kaggle%20Time%20Series.png) | [✅](https://www.kaggle.com/learn/certification/allenbphilip/time-series) |
+| Data Cleaning | [✅](https://github.com/abphilip-work/Certifications/blob/master/Others/Achievements/Kaggle%20Data%20Cleaning.png) | [✅](https://www.kaggle.com/learn/certification/allenbphilip/data-cleaning) |
+| Intro to AI Ethics | [✅](https://github.com/abphilip-work/Certifications/blob/master/Others/Achievements/Kaggle%20Intro%20to%20AI%20Ethics.png) | [✅](https://www.kaggle.com/learn/certification/allenbphilip/intro-to-ai-ethics) |
+| Geospatial Analysis | [✅](https://github.com/abphilip-work/Certifications/blob/master/Others/Achievements/Kaggle%20Geospatial%20Analysis.png) | [✅](https://www.kaggle.com/learn/certification/allenbphilip/geospatial-analysis) |
+| Machine Learning Explainability | [✅](https://github.com/abphilip-work/Certifications/blob/master/Others/Achievements/Kaggle%20Machine%20Learning%20Explainability.png) | [✅](https://www.kaggle.com/learn/certification/allenbphilip/machine-learning-explainability) |
+| Intro to Game AI and Reinforcement Learning | [✅](https://github.com/abphilip-work/Certifications/blob/master/Others/Achievements/Kaggle%20Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning.png) | [✅](https://www.kaggle.com/learn/certification/allenbphilip/intro-to-game-ai-and-reinforcement-learning) |
 
 <br>
 
