@@ -1,21 +1,26 @@
-## **Degreed**
+## **Degreed** [📍](https://degreed.com/profile/dguser53qmz6d/overview)
 
 **Digital Literacy**
 
 |**Section**|**Pathway**|**Status**|
 |:----------|:----------|:--------:|
-| Business Acumen | Digital Transformation | ✅ |
-| Business Acumen | Business Models | ✅ |
-| Business Acumen | Regulations and Privacy, Data Ethics | ✅ |
-| Innovation Mindset | Agile Delivery | ✅ |
-| Innovation Mindset | Product Management | ✅ |
-| Innovation Mindset | Design Thinking | ✅ |
-| Innovation Mindset | User Experience | ✅ |
-| Innovation Mindset | Digital Workforce – Culture, Change | ✅ |
-| Innovation Mindset | Story Telling & Data Visualizations | ✅ |
-| Tech Expertise | Big Data | ✅ |
-| Tech Expertise | Computing (Cloud, Quantum) | ✅ |
-| Tech Expertise | Intelligent Automation Technologies | ✅ |
+| `Tech Expertise` | AI/ML | ✅ |
+| `Tech Expertise` | AR/VR | ✅ |
+| `Tech Expertise` | Big Data | ✅ |
+| `Tech Expertise` | Blockchain | ✅ |
+| `Tech Expertise` | Computing (Cloud, Quantum) | ✅ |
+| `Tech Expertise` | Cyber Security | ✅ |
+| `Tech Expertise` | Intelligent Automation Technologies | ✅ |
+| `Tech Expertise` | IoT | ✅ |
+| `Business Acumen` | Business Models | ✅ |
+| `Business Acumen` | Digital Transformation | ✅ |
+| `Business Acumen` | Regulations and Privacy, Data Ethics | ✅ |
+| `Innovation Mindset` | Agile Delivery | ✅ |
+| `Innovation Mindset` | Design Thinking | ✅ |
+| `Innovation Mindset` | Digital Workforce – Culture, Change | ✅ |
+| `Innovation Mindset` | Product Management | ✅ |
+| `Innovation Mindset` | Story Telling & Data Visualizations | ✅ |
+| `Innovation Mindset` | User Experience | ✅ |
 
 **Rapid Skilling**
 
@@ -25,18 +30,21 @@
 | Python | ✅ | ✅ | ✅ | |
 | Big Data | ✅ | ✅ | | |
 | SQL | ✅ | ✅ | | |
-| ETL | ✅ | 🟡 | ✅ | |
+| ETL | ✅ | | ✅ | |
 | Snowflake | ✅ | ✅ | | |
+| Redshift | | | | |
 | Cloud Computing | ✅ | ✅ | | |
 | R Programming | ✅ | | | |
-| MDM | 🟡 | | | |
-| MicroStrategy | ✅ | | | |
+| MDM | | | | |
+| MicroStrategy | | | | |
 | AWS | ✅ | | | |
+| Azure | ✅ | | | |
+| Dev Ops | ✅ | | | |
 | Automation | ✅ | | | |
 | PySpark | ✅ | ✅ | | |
 | GCP | ✅ | | | |
 | Athena | ✅ | ✅ | | |
-| PowerPoint | ✅ | 🟡 | ✅ | |
+| PowerPoint | ✅ | | ✅ | |
 | Database Management | ✅ | | |
 | Databricks | ✅ | ✅ | | |
 | Software Development Life Cycle | ✅ | | | |
