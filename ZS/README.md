@@ -22,7 +22,7 @@
 | `Innovation Mindset` | Story Telling & Data Visualizations | ✅ |
 | `Innovation Mindset` | User Experience | ✅ |
 
-**Rapid Skilling**
+**Rapid Skilling I**
 
 |**Pathway**|**Basics**|**Intermediate**|**Advanced**|**Labs**|
 |:----------|:--------:|:--------------:|:----------:|:------:|
@@ -48,6 +48,21 @@
 | Database Management | ✅ | | |
 | Databricks | ✅ | ✅ | | |
 | Software Development Life Cycle | ✅ | | | |
+
+**Rapid Skilling II**
+
+|**Pathway**|**Status**|
+|:----------|:--------:|
+| Qlik Sense 101 | |
+| Agile 101 | ✅ |
+| Consulting at ZS | ✅ |
+| PFDD | ✅ |
+| Patient Data | ✅ |
+| Patient Activation | ✅ |
+| Patient Centricity | ✅ |
+| Patient Support Programs | ✅ |
+| Database Analysis and Visualization | ✅ |
+| FSGS Patient Journey + Digital Solution Concept Testing | ✅ |
 
 
 ## **MyLearning ZS**
