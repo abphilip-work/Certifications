@@ -4,25 +4,25 @@
 
 |**Section**|**Pathway**|**Status**|
 |:----------|:----------|:--------:|
-| `Tech Expertise` | AI/ML | ✅ |
-| `Tech Expertise` | AR/VR | ✅ |
-| `Tech Expertise` | Big Data | ✅ |
-| `Tech Expertise` | Blockchain | ✅ |
-| `Tech Expertise` | Computing (Cloud, Quantum) | ✅ |
-| `Tech Expertise` | Cyber Security | ✅ |
-| `Tech Expertise` | Intelligent Automation Technologies | ✅ |
-| `Tech Expertise` | IoT | ✅ |
-| `Business Acumen` | Business Models | ✅ |
-| `Business Acumen` | Digital Transformation | ✅ |
-| `Business Acumen` | Regulations and Privacy, Data Ethics | ✅ |
-| `Innovation Mindset` | Agile Delivery | ✅ |
-| `Innovation Mindset` | Design Thinking | ✅ |
-| `Innovation Mindset` | Digital Workforce – Culture, Change | ✅ |
-| `Innovation Mindset` | Product Management | ✅ |
-| `Innovation Mindset` | Story Telling & Data Visualizations | ✅ |
-| `Innovation Mindset` | User Experience | ✅ |
+| Tech Expertise | AI/ML | ✅ |
+| Tech Expertise | AR/VR | ✅ |
+| Tech Expertise | Big Data | ✅ |
+| Tech Expertise | Blockchain | ✅ |
+| Tech Expertise | Computing (Cloud, Quantum) | ✅ |
+| Tech Expertise | Cyber Security | ✅ |
+| Tech Expertise | Intelligent Automation Technologies | ✅ |
+| Tech Expertise | IoT | ✅ |
+| Business Acumen | Business Models | ✅ |
+| Business Acumen | Digital Transformation | ✅ |
+| Business Acumen | Regulations and Privacy, Data Ethics | ✅ |
+| Innovation Mindset | Agile Delivery | ✅ |
+| Innovation Mindset | Design Thinking | ✅ |
+| Innovation Mindset | Digital Workforce – Culture, Change | ✅ |
+| Innovation Mindset | Product Management | ✅ |
+| Innovation Mindset | Story Telling & Data Visualizations | ✅ |
+| Innovation Mindset | User Experience | ✅ |
 
-**Rapid Skilling I**
+**Rapid Skilling**
 
 |**Pathway**|**Basics**|**Intermediate**|**Advanced**|**Labs**|
 |:----------|:--------:|:--------------:|:----------:|:------:|
@@ -49,7 +49,7 @@
 | Databricks | ✅ | ✅ | | |
 | Software Development Life Cycle | ✅ | | | |
 
-**Rapid Skilling II**
+**General**
 
 |**Pathway**|**Status**|
 |:----------|:--------:|
@@ -69,6 +69,7 @@
 
 |**Course**|**Certificate**|
 |:---------|:-------------:|
+| Digital Literacy | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Digital-Literacy.pdf) |
 | Data Management using ZS-licensed Symphony Health Systems Data | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Data-Management-SHS.pdf) |
 | 2021 Be Safe Be Sure | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Be-Safe-Be-Sure-I.pdf) |
 | 2022 Be Safe Be Sure | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Be-Safe-Be-Sure-II.pdf) |
