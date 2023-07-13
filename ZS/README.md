@@ -55,12 +55,18 @@
 |:----------|:--------:|
 | Qlik Sense 101 | |
 | Agile 101 | ✅ |
+| AI/ML 101 | ✅ |
+| Big Data 101 | ✅ |
 | Consulting at ZS | ✅ |
+| General ZS Resources | ✅ |
 | PFDD | ✅ |
 | Patient Data | ✅ |
 | Patient Activation | ✅ |
 | Patient Centricity | ✅ |
 | Patient Support Programs | ✅ |
+| Python | ✅ |
+| RWDI General Trainings Pathway | ✅ |
+| ZS Marketplace | ✅ |
 | Database Analysis and Visualization | ✅ |
 | FSGS Patient Journey + Digital Solution Concept Testing | ✅ |
 
