@@ -53,11 +53,12 @@
 
 |**Pathway**|**Status**|
 |:----------|:--------:|
-| Qlik Sense 101 | |
 | Agile 101 | ✅ |
 | AI/ML 101 | ✅ |
 | Big Data 101 | ✅ |
 | Consulting at ZS | ✅ |
+| Database Analysis and Visualization | ✅ |
+| FSGS Patient Journey + Digital Solution Concept Testing | ✅ |
 | General ZS Resources | ✅ |
 | PFDD | ✅ |
 | Patient Data | ✅ |
@@ -67,8 +68,6 @@
 | Python | ✅ |
 | RWDI General Trainings Pathway | ✅ |
 | ZS Marketplace | ✅ |
-| Database Analysis and Visualization | ✅ |
-| FSGS Patient Journey + Digital Solution Concept Testing | ✅ |
 
 
 ## **MyLearning ZS**
