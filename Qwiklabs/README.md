@@ -36,3 +36,6 @@
 | DevOps Essentials | [✅](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6/badges/454269) |
 | Cloud Architecture | [✅](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6/badges/454268) |
 | Deploy to Kubernetes in Google Cloud | [✅](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6/badges/453699) |
+| Kubernetes in Google Cloud | [✅](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6/badges/448863) |
+| Integrate with Machine Learning APIs | [✅](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6/badges/448644) |
+| Machine Learning APIs | [✅](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6/badges/448642) |
