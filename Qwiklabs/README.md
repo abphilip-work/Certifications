@@ -42,3 +42,6 @@
 | Intro to ML: Language Processing | [✅](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6/badges/447573) |
 | Engineer Data in Google Cloud | [✅](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6/badges/445919) |
 | Data Engineering | [✅](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6/badges/445763) |
+| BigQuery Basics for Data Analysts | [✅](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6/badges/443537) |
+| Baseline: Data, ML, AI | [✅](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6/badges/443532) |
+| Baseline: Infrastructure | [✅](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6/badges/443522) |
