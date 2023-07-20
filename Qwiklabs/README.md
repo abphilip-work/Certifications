@@ -1,3 +1,7 @@
+<a href="{{ '/' | relative_url }}" class="btn">About</a>
+<a href="{{ '/Others' | relative_url }}" class="btn">Others</a>
+
+
 ## **Google Cloud Qwiklabs** [📍](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6)
   
 |**Pathway**|**Status**|
