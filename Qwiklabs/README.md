@@ -1,7 +1,3 @@
-<a href="{{ '/' | relative_url }}" class="btn">About</a>
-<a href="{{ '/Others' | relative_url }}" class="btn">Others</a>
-
-
 ## **Google Cloud Qwiklabs** [📍](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6)
   
 |**Pathway**|**Status**|
@@ -33,3 +29,6 @@
 | Website on Google Cloud | [✅](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6/badges/441585) |
 | Build a Website on Google Cloud | [✅](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6/badges/441583) |
 | Build and Secure Networks in Google Cloud | [✅](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6/badges/439315) |
+| Insights from Data with BigQuery | [✅](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6/badges/438072) |
+| Perform Foundational Data, ML, and AI Tasks in Google Cloud | [✅](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6/badges/436826) |
+| Explore Machine Learning Models with Explainable AI | [✅](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6/badges/434727) |
