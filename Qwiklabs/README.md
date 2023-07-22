@@ -32,3 +32,7 @@
 | Insights from Data with BigQuery | [✅](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6/badges/438072) |
 | Perform Foundational Data, ML, and AI Tasks in Google Cloud | [✅](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6/badges/436826) |
 | Explore Machine Learning Models with Explainable AI | [✅](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6/badges/434727) |
+| Google Cloud Essentials | [✅](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6/badges/433721) |
+| Set Up and Configure a Cloud Environment in Google Cloud | [✅](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6/badges/433102) |
+| Perform Foundational Infrastructure Tasks in Google Cloud | [✅](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6/badges/430159) |
+| Create and Manage Cloud Resources | [✅](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6/badges/421921) |
