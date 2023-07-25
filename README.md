@@ -10,8 +10,5 @@ Hi, I'm Allen. An Analytics Associate at ZS.
 ## **GitHub Navigation** <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>
 [<kbd> <br> About <br> </kbd>](https://github.com/allenalvin333/) 
 [<kbd> <br> Coursera <br> </kbd>](https://github.com/abphilip-work/Certifications/blob/master/Coursera/README.md)
-[<kbd> <br> Google Cloud Qwiklabs <br> </kbd>](https://github.com/abphilip-work/Certifications/blob/master/Qwiklabs/README.md)
-[<kbd> <br> LinkedIn Learning <br> </kbd>](https://github.com/abphilip-work/Certifications/blob/master/LinkedIn/README.md)
-[<kbd> <br> Skillsoft Percipio <br> </kbd>](https://github.com/abphilip-work/Certifications/blob/master/Percipio/README.md)
 [<kbd> <br> ZS <br> </kbd>](https://github.com/abphilip-work/Certifications/blob/master/ZS/README.md)
-[<kbd> <br> Others <br> </kbd>](https://github.com/abphilip-work/Certifications/blob/master/Others/README.md)
+[<kbd> <br> Personal <br> </kbd>](https://github.com/abphilip-work/Certifications/blob/master/Personal/README.md)
