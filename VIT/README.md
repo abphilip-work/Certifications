@@ -1,4 +1,4 @@
-## **Coursera**
+## **Coursera** [📍](https://www.coursera.org/user/e1055e1e8f6127414dff2a2d12ad5093)
 
 |**Domain**|**Course**|**Certificate**|**Badge**|
 |:--------:|:---------|:-------------:|:-------:|
@@ -9,7 +9,7 @@
 ## **Google Cloud Qwiklabs** [📍](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6)
   
 |**Pathway**|**Status**|
-:---------|:-------------:|
+:-----------|:--------:|
 | Workspace Essentials | [✅](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6/badges/799194) |
 | OK Google: Build Interactive Apps with Google Assistant | [✅](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6/badges/694938) |
 | Google Developer Essentials | [✅](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6/badges/693197) |
