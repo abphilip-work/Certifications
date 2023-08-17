@@ -49,7 +49,7 @@
 
 <br>
 
-## **LinkedIn Learning**
+## **LinkedIn Learning** [📍](https://www.linkedin.com/in/allenbphilip)
 
 |**Domain**|**Pathway**|**Status**|
 |:--------:|:---------|:-------------:|
