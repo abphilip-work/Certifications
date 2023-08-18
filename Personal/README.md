@@ -51,10 +51,10 @@
 
 ## **LinkedIn Learning** [📍](https://www.linkedin.com/in/allenbphilip)
 
-|**Domain**|**Pathway**|**Status**|
-|:--------:|:---------|:-------------:|
-| `PD` | Story Telling & Data Visualizations | ✅ |
-| `Dev` | Agile Delivery | ✅ |
-| `BigData` | Big Data | ✅ |
-| `Cloud` | Computing (Cloud, Quantum) | ✅ |
-| `Python` | Intelligent Automation Technologies | ✅ |
+|**Domain**|**Pathway**|**Certificate**|**Badge**|
+|:--------:|:----------|:-------------:|:-------:|
+| `PD` | How to Speak with Effortless Confidence | | [✅](https://www.linkedin.com/learning/certificates/c5d4377b468fa12151feb7201a9994b5fbb877dff193d178ee38e989389ca6e3) |
+| `PD` | 5 Common Test Failures | | [✅](https://www.linkedin.com/learning/certificates/726ac1c0404e8fb6f4904690047a467a520a539e507ef1fe6102cd5045dbebcd) |
+| `PD` | Mistakes You Should Avoid at Work | | [✅](https://www.linkedin.com/learning/certificates/d2dc3cabde13535efb1b73131f5c665c4329b67e05719017e9b6b378fcf0b874) |
+| `PD` | How to Commit Learning to Memory | | [✅](https://www.linkedin.com/learning/certificates/4d41104ef617edc4cb05be1cdf63bfd8e015dbbe004d0e89cb36c719123e2c7f) |
+| `PD` | Public Speaking: Find Your Confidence | | [✅](https://www.linkedin.com/learning/certificates/9672c12361343e6e13c2fdedd516832d3dd1bb8cd9b04b23b033f11e72e14614) |
