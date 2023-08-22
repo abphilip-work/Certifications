@@ -10,24 +10,16 @@
 
 ## **Skillsoft Percipio**
 
-**Aug, 2023**
+**Cloud Computing**
+**Software Development**
+**Python**
+**Big Data**
+**Machine Learning**
 
-|**Domain**|**Course**|**Certificate**|**Badge**|
-|:--------:|:---------|:-------------:|:-------:|
-| `TEMP` | Defining Cloud Computing for Decision-makers: Cloud Computing Principles | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Defining%20Cloud%20Computing%20for%20Decision-makers_%20Cloud%20Computing%20Principles.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/cfceb004-8784-46ca-8749-51e004ced6f5) |
-
-**Jul, 2023**
-
-|**Domain**|**Course**|**Certificate**|**Badge**|
-|:--------:|:---------|:-------------:|:-------:|
-| `TEMP` | Defining Cloud Computing for Decision-makers: Cloud Computing Principles | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Defining%20Cloud%20Computing%20for%20Decision-makers_%20Cloud%20Computing%20Principles.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/cfceb004-8784-46ca-8749-51e004ced6f5) |
-
-**Jun, 2023**
-
-|**Domain**|**Course**|**Certificate**|**Badge**|
-|:--------:|:---------|:-------------:|:-------:|
-| `Cloud` | Defining Cloud Computing for Decision-makers: Cloud Computing Principles | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Defining%20Cloud%20Computing%20for%20Decision-makers_%20Cloud%20Computing%20Principles.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/cfceb004-8784-46ca-8749-51e004ced6f5) |
-| `Dev` | Agile Foundations: Fundamentals | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Agile%20Foundations_%20Fundamentals.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/85124182-95bd-44d3-8690-a8ba35f45804) |
+|**Completion**|**Course**|**Certificate**|**Badge**|
+|:------------:|:---------|:-------------:|:-------:|
+| `Jun, 2023` | Defining Cloud Computing for Decision-makers: Cloud Computing Principles | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Defining%20Cloud%20Computing%20for%20Decision-makers_%20Cloud%20Computing%20Principles.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/cfceb004-8784-46ca-8749-51e004ced6f5) |
+| `Jun, 2023` | Agile Foundations: Fundamentals | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Agile%20Foundations_%20Fundamentals.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/85124182-95bd-44d3-8690-a8ba35f45804) |
 
 **May, 2023**
 
