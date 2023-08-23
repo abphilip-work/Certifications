@@ -11,15 +11,34 @@
 ## **Skillsoft Percipio**
 
 **Cloud Computing**
-**Software Development**
-**Python**
-**Big Data**
-**Machine Learning**
 
 |**Completion**|**Course**|**Certificate**|**Badge**|
 |:------------:|:---------|:-------------:|:-------:|
 | `Jun, 2023` | Defining Cloud Computing for Decision-makers: Cloud Computing Principles | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Defining%20Cloud%20Computing%20for%20Decision-makers_%20Cloud%20Computing%20Principles.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/cfceb004-8784-46ca-8749-51e004ced6f5) |
+
+**Software Development**
+
+|**Completion**|**Course**|**Certificate**|**Badge**|
+|:------------:|:---------|:-------------:|:-------:|
 | `Jun, 2023` | Agile Foundations: Fundamentals | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Agile%20Foundations_%20Fundamentals.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/85124182-95bd-44d3-8690-a8ba35f45804) |
+
+**Python**
+
+|**Completion**|**Course**|**Certificate**|**Badge**|
+|:------------:|:---------|:-------------:|:-------:|
+||||
+
+**Big Data**
+
+|**Completion**|**Course**|**Certificate**|**Badge**|
+|:------------:|:---------|:-------------:|:-------:|
+||||
+
+**Machine Learning**
+
+|**Completion**|**Course**|**Certificate**|**Badge**|
+|:------------:|:---------|:-------------:|:-------:|
+||||
 
 **May, 2023**
 
