@@ -15,43 +15,48 @@
 |**Completion**|**Course**|**Certificate**|**Badge**|
 |:------------:|:---------|:-------------:|:-------:|
 | `Jun, 2023` | Defining Cloud Computing for Decision-makers: Cloud Computing Principles | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Defining%20Cloud%20Computing%20for%20Decision-makers_%20Cloud%20Computing%20Principles.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/cfceb004-8784-46ca-8749-51e004ced6f5) |
+| `May, 2023` | Practical GCP for DevOps: Google Cloud Platform Basics | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Practical%20GCP%20for%20DevOps_%20Google%20Cloud%20Platform%20Basics.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/443501a8-b112-4f16-8b9c-6badce971a78) |
+| `May, 2023` | Google Cloud: Getting Started | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Google%20Cloud_%20Getting%20Started.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/3cbae5b0-39e3-48a0-8979-d45cf2fe5213) |
+| `May, 2023` | Cloud Value Proposition: Google Cloud Platform for Decision Makers | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Cloud%20Value%20Proposition_%20Google%20Cloud%20Platform%20for%20Decision%20Makers.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/06a04045-74c0-4317-9815-963480fca4b2) |
 
 **Software Development**
 
 |**Completion**|**Course**|**Certificate**|**Badge**|
 |:------------:|:---------|:-------------:|:-------:|
 | `Jun, 2023` | Agile Foundations: Fundamentals | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Agile%20Foundations_%20Fundamentals.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/85124182-95bd-44d3-8690-a8ba35f45804) |
+| `May, 2023` | Test Automation: Automated Software Testing | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Test%20Automation_%20Automated%20Software%20Testing.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/3be0736d-d3ea-4c5d-b20d-6b613882011e) |
 
 **Python**
 
 |**Completion**|**Course**|**Certificate**|**Badge**|
 |:------------:|:---------|:-------------:|:-------:|
-||||
+| `May, 2023` | Complex Data Types in Python: Shallow & Deep Copies in Python | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Complex%20Data%20Types%20in%20Python_%20Shallow%20%26%20Deep%20Copies%20in%20Python.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/6225e86f-e9e0-489f-8ee0-bec035040449) |
+| `May, 2023` | Introduction to Automated Testing with Selenium | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Introduction%20to%20Automated%20Testing%20with%20Selenium.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/7f2464db-0d6a-488b-ad1a-61c454bd01ad) |
 
 **Big Data**
 
 |**Completion**|**Course**|**Certificate**|**Badge**|
 |:------------:|:---------|:-------------:|:-------:|
-||||
+| `Nov, 2022` | Apache Spark Getting Started | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Apache%20Spark%20Getting%20Started.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/fe9b6e3b-9434-400c-9bc4-69e9a746cb41) |
 
 **Machine Learning**
 
 |**Completion**|**Course**|**Certificate**|**Badge**|
 |:------------:|:---------|:-------------:|:-------:|
+| `May, 2023` | Machine Learning with TensorFlow & Cloud ML | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Machine%20Learning%20with%20TensorFlow%20%26%20Cloud%20ML.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/d12edd32-c942-4827-8d29-2c65357829ef) |
+| `May, 2023` | Machine Learning Introduction | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Machine%20Learning%20Introduction.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/26415cb1-fbb2-45d9-85df-3e0bf6d7caa6) |
+
+**Microsoft 365**
+
+|**Completion**|**Course**|**Certificate**|**Badge**|
+|:------------:|:---------|:-------------:|:-------:|
 ||||
 
-**May, 2023**
+**Miscellaneous**
 
-|**Domain**|**Course**|**Certificate**|**Badge**|
-|:--------:|:---------|:-------------:|:-------:|
-| `Cloud` | Practical GCP for DevOps: Google Cloud Platform Basics | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Practical%20GCP%20for%20DevOps_%20Google%20Cloud%20Platform%20Basics.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/443501a8-b112-4f16-8b9c-6badce971a78) |
-| `Python` | Complex Data Types in Python: Shallow & Deep Copies in Python | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Complex%20Data%20Types%20in%20Python_%20Shallow%20%26%20Deep%20Copies%20in%20Python.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/6225e86f-e9e0-489f-8ee0-bec035040449) |
-| `Cloud` | Google Cloud: Getting Started | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Google%20Cloud_%20Getting%20Started.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/3cbae5b0-39e3-48a0-8979-d45cf2fe5213) |
-| `Cloud` | Cloud Value Proposition: Google Cloud Platform for Decision Makers | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Cloud%20Value%20Proposition_%20Google%20Cloud%20Platform%20for%20Decision%20Makers.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/06a04045-74c0-4317-9815-963480fca4b2) |
-| `ML` | Machine Learning with TensorFlow & Cloud ML | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Machine%20Learning%20with%20TensorFlow%20%26%20Cloud%20ML.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/d12edd32-c942-4827-8d29-2c65357829ef) |
-| `Python` | Introduction to Automated Testing with Selenium | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Introduction%20to%20Automated%20Testing%20with%20Selenium.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/7f2464db-0d6a-488b-ad1a-61c454bd01ad) |
-| `Dev` | Test Automation: Automated Software Testing | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Test%20Automation_%20Automated%20Software%20Testing.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/3be0736d-d3ea-4c5d-b20d-6b613882011e) |
-| `ML` | Machine Learning Introduction | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Machine%20Learning%20Introduction.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/26415cb1-fbb2-45d9-85df-3e0bf6d7caa6) |
+|**Completion**|**Course**|**Certificate**|**Badge**|
+|:------------:|:---------|:-------------:|:-------:|
+||||
 
 **Apr, 2023**
 
@@ -123,12 +128,6 @@
 | `BigData` | Big Data Concepts: Big Data Essentials | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Big%20Data%20Concepts_%20Big%20Data%20Essentials.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/b5c93b08-4d9e-489a-b2fb-053ed87250c6) |
 | `SQL` | SQL 2016 Tables | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/SQL%202016%20Tables.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/8af40e90-09d5-4a9a-881f-9f5654bfcdb1) |
 | `Python` | Python Development: Creating Classes, Handling Errors, & Importing Modules | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Python%20Development_%20Creating%C2%A0Classes%2C%C2%A0Handling%C2%A0Errors%2C%20%26%C2%A0Importing%C2%A0Modules.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/6d9e6812-0c08-4dfc-b2da-3e0747a9219d) |
-
-**Nov, 2022**
-
-|**Domain**|**Course**|**Certificate**|**Badge**|
-|:--------:|:---------|:-------------:|:-------:|
-| `BigData` | Apache Spark Getting Started | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Apache%20Spark%20Getting%20Started.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/fe9b6e3b-9434-400c-9bc4-69e9a746cb41) |
 
 **Oct, 2022**
 
