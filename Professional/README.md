@@ -21,6 +21,13 @@
 | `Apr, 2023`  | Cloud Computing and MLOps: ML Pipelines | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Cloud%20Computing%20and%20MLOps_%20ML%20Pipelines.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/15a40e29-73b6-43be-b2f9-46e6065e23e9) |
 | `Apr, 2023`  | Data Engineering on Microsoft Azure: Databrick Processing | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Data%20Engineering%20on%20Microsoft%20Azure_%20Databrick%20Processing.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/3aa3774f-a2c8-4fa4-850f-cfd62cb83ff2) |
 | `Mar, 2023`  | AWS Cloud Practitioner 2022: Core AWS Services | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/AWS%20Cloud%20Practitioner%202022_%20Core%20AWS%20Services.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/2c98330c-b41d-4bdd-b09d-3073e15fac96) |
+| `Feb, 2023`  | CompTIA Server+: Servers & Cloud Computing | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/CompTIA%20Server%2B_%20Servers%20%26%20Cloud%20Computing.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/d4e22302-4fa2-4ed8-908c-693e0772bd18) |
+| `Feb, 2023`  | Cloud Data Platforms: Cloud-based Applications & Storage | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Cloud%20Data%20Platforms_%20Cloud-based%20Applications%20%26%20Storage.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/8b71f6f6-bd53-4508-9c12-1a77509dba72) |
+| `Feb, 2023`  | Cloud Data Platforms: AWS, Azure, & GCP Comparison | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Cloud%20Data%20Platforms_%20AWS%2C%20Azure%2C%20%26%20GCP%20Comparison.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/12dfadbe-a338-4156-8e09-692108eae768) |
+| `Feb, 2023`  | Cloud Data Platforms: Cloud Computing | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Cloud%20Data%20Platforms_%20Cloud%20Computing.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/ff49d51b-5fd5-4351-9b60-aec1e4936214) |
+| `Feb, 2023`  | Azure Data Fundamentals: Azure Data Ingestion & Processing | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Azure%20Data%20Fundamentals_%20Azure%20Data%20Ingestion%20%26%20Processing.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/e9a23019-922c-4bfa-9b4f-4248e44ef827) |
+| `Feb, 2023`  | Introduction to AWS Services | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Introduction%20to%20AWS%20Services.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/740acbe3-ff9f-43c0-85c3-190b74e50745) |
+| `Feb, 2023`  | AWS Cloud Practitioner 2020: Cloud & the Value Proposition | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/AWS%20Cloud%20Practitioner%202020_%20Cloud%20%26%20the%20Value%20Proposition.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/6b27c559-1cc6-4504-93e5-922889f63e5b) |
 
 **Software Development**
 
@@ -33,6 +40,7 @@
 | `Mar, 2023`  | Planning & Working on a Software Project in Jira Cloud | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Planning%20%26%20Working%20on%20a%20Software%20Project%20in%20Jira%20Cloud.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/d8e695a6-17d5-40a8-98f5-dcb816982827) |
 | `Mar, 2023`  | Software Design and Development: Modeling with UML | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Software%20Design%20and%20Development_%20Modeling%20with%20UML.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/95cd2cd2-2c5f-4f54-a436-8b6382546175) |
 | `Mar, 2023`  | Software Design and Development: Methodologies | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Software%20Design%20and%20Development_%20Methodologies.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/543b98e0-f659-400c-8aaf-ed308e06faf6) |
+| `Feb, 2023`  | Software Design and Development: Software Engineering & SDLC Phases | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Software%20Design%20and%20Development_%20Software%20Engineering%20%26%20SDLC%20Phases.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/5bd2a157-c20e-4a4f-923a-7000eb90c631) |
 
 **Python**
 
@@ -40,6 +48,31 @@
 |:------------:|:---------|:-------------:|:-------:|
 | `May, 2023`  | Complex Data Types in Python: Shallow & Deep Copies in Python | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Complex%20Data%20Types%20in%20Python_%20Shallow%20%26%20Deep%20Copies%20in%20Python.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/6225e86f-e9e0-489f-8ee0-bec035040449) |
 | `May, 2023`  | Introduction to Automated Testing with Selenium | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Introduction%20to%20Automated%20Testing%20with%20Selenium.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/7f2464db-0d6a-488b-ad1a-61c454bd01ad) |
+| `Jan, 2023`  | Python Development: Creating Classes, Handling Errors, & Importing Modules | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Python%20Development_%20Creating%C2%A0Classes%2C%C2%A0Handling%C2%A0Errors%2C%20%26%C2%A0Importing%C2%A0Modules.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/6d9e6812-0c08-4dfc-b2da-3e0747a9219d) |
+| `Oct, 2022`  | Functions in Python: Gaining a Deeper Understanding of Python Functions | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Functions%20in%20Python_%20Gaining%20a%20Deeper%20Understanding%20of%20Python%20Functions.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/93f3b9dd-b406-4566-b925-804b7cd03b46) |
+| `Oct, 2022`  | Python Classes & Inheritance: Introduction | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Python%20Classes%20%26%20Inheritance_%20Introduction.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/c48c61b0-3d99-4baf-8398-a260679aab6b) |
+| `Oct, 2022`  | Advanced Python Topics: File Operations in Python | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Advanced%20Python%20Topics_%20File%20Operations%20in%20Python.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/fe17ab9d-ac2d-4bbd-b8b3-3ff39893131c) |
+| `Oct, 2022`  | Conditional Statements & Loops: The Basics of for Loops in Python | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Conditional%20Statements%20%26%20Loops_%20The%20Basics%20of%20for%20Loops%20in%20Python.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/9d681801-7133-43a4-9896-5b9b55c3bb4c) |
+| `Oct, 2022`  | Complex Data Types in Python: Working with Lists & Tuples in Python | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Complex%20Data%20Types%20in%20Python_%20Working%20with%20Lists%20%26%20Tuples%20in%20Python.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/cc960b13-1103-4031-babe-90950c1f0b65) |
+| `Oct, 2022`  | Getting Started with Python: Introduction | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Getting%20Started%20with%20Python_%20Introduction.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/12060326-9761-43f4-a30b-9830fe5ce160) |
+
+**SQL**
+
+|**Completion**|**Course**|**Certificate**|**Badge**|
+|:------------:|:---------|:-------------:|:-------:|
+| `Feb, 2023`  | Working with Functions, Times, Dates, & Intervals | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Working%20with%20Functions%2C%20Times%2C%20Dates%2C%20%26%20Intervals.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/3994e60a-cf69-4187-b1b3-bd06f049bb8c) |
+| `Feb, 2023`  | Designing & Implementing Views | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Designing%20%26%20Implementing%20Views.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/9c68de3b-cfa3-40c3-b750-5e38b76d4b84) |
+| `Feb, 2023`  | Querying & Manipulating Data | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Querying%20%26%20Manipulating%20Data.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/a0e17400-1473-43c8-98cf-4176bfb04bcb) |
+| `Jan, 2023`  | Data Integrity & Constraints | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Data%20Integrity%20%26%20Constraints.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/bb00df4e-6403-4327-8711-049e7c612859) |
+| `Jan, 2023`  | SQL 2016 Tables | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/SQL%202016%20Tables.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/8af40e90-09d5-4a9a-881f-9f5654bfcdb1) |
+
+**Stats**
+
+|**Completion**|**Course**|**Certificate**|**Badge**|
+|:------------:|:---------|:-------------:|:-------:|
+| `Oct, 2022`  | Datasets in R: Selecting, Filtering, Ordering, & Grouping Data | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Datasets%20in%20R_%20Selecting%2C%20Filtering%2C%20Ordering%2C%20%26%20Grouping%20Data.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/29bfe954-22eb-4d0a-bb2e-c14ae00fe0d2) |
+| `Oct, 2022`  | R Programming for Beginners: Getting Started | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/R%20Programming%20for%20Beginners_%20Getting%20Started.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/2abbe37c-9807-4dae-9faf-d675247add93) |
+| `Apr, 2022`  | Inferential Statistics | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Inferential%20Statistics.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/b4e87aba-2ca3-4d34-b1d1-90aa64e29a42) |
 
 **Big Data**
 
@@ -57,6 +90,12 @@
 | `Mar, 2023`  | Database Fundamentals: Database Administration Basics | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Database%20Fundamentals_%20Database%20Administration%20Basics.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/a25e43da-d382-46ce-b215-1c67337b51c9) |
 | `Mar, 2023`  | Database Fundamentals: Database Concepts | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Database%20Fundamentals_%20Database%20Concepts.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/c524d062-4efa-4fc6-969a-3b36795adff1) |
 | `Nov, 2022`  | Apache Spark Getting Started | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Apache%20Spark%20Getting%20Started.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/fe9b6e3b-9434-400c-9bc4-69e9a746cb41) |
+| `Feb, 2023`  | Introduction to Apache Spark | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Introduction%20to%20Apache%20Spark.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/33757123-24ef-4804-b04b-a88ebb62f1d8) |
+| `Feb, 2023`  | Big Data Concepts: Getting to Know Big Data | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Big%20Data%20Concepts_%20Getting%20to%20Know%20Big%20Data.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/b1d5bfcb-bf77-4efd-9d09-dbd32d42bd5a) |
+| `Feb, 2023`  | Traditional Data Architectures: Data Warehousing and ETL Systems | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Traditional%20Data%20Architectures_%20Data%20Warehousing%20and%20ETL%20Systems.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/698a140d-097a-45b2-9ab5-8bdf73ceb6b8) |
+| `Feb, 2023`  | QlikView: Extract, Transform, & Load (ETL) | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/QlikView_%20Extract%2C%20Transform%2C%20%26%20Load%20(ETL).pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/8f761a5c-b63b-4699-8bac-99276e4bf627) |
+| `Jan, 2023`  | Introduction to Hadoop | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Introduction%20to%20Hadoop.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/bea1e7e0-89ed-46dd-8c31-153988138eb6) |
+| `Jan, 2023`  | Big Data Concepts: Big Data Essentials | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Big%20Data%20Concepts_%20Big%20Data%20Essentials.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/b5c93b08-4d9e-489a-b2fb-053ed87250c6) |
 
 **Machine Learning**
 
@@ -86,60 +125,12 @@
 |**Completion**|**Course**|**Certificate**|**Badge**|
 |:------------:|:---------|:-------------:|:-------:|
 | `Mar, 2023`  | Michelle Boockoff-Bajdek on Public Speaking From A to D (Analog to Digital) | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Michelle%20Boockoff-Bajdek%20on%20Public%20Speaking%20From%20A%20to%20D%20(Analog%20to%20Digital).pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/6df4d87a-16a4-4c18-8005-96fc24bb5ad0) |
+| `Apr, 2022`  | Saving Time by Setting Goals | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Saving%20Time%20by%20Setting%20Goals.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/48c84a9a-335a-466d-aae4-e8dd2cbd58ff) |
+| `Apr, 2022`  | Sharpening Your Focus to Stay on Track | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Sharpening%20Your%20Focus%20to%20Stay%20on%20Track.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/38419bf1-36ef-4009-8f0d-24cad9810c69) |
+| `Apr, 2022`  | Aligning Goals and Priorities To Manage Time | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Aligning%20Goals%20and%20Priorities%20To%20Manage%20Time.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/2a6021b4-da36-44ef-8915-98814b82f62d) |
+| `Apr, 2022`  | Managing Your Time So It Doesn’t Manage You | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Managing%20Your%20Time%20So%20It%20Doesn%E2%80%99t%20Manage%20You.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/32ca885a-6a9d-474d-ad8d-3eaad258b960) |
+| `Apr, 2022`  | Maximize Your Productivity by Managing Time and Tasks | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Maximize%20Your%20Productivity%20by%20Managing%20Time%20and%20Tasks.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/f75eca7b-07c4-4bd7-9d99-cb8862b7de4f) |
 
-**Feb, 2023**
-
-|**Domain**|**Course**|**Certificate**|**Badge**|
-|:--------:|:---------|:-------------:|:-------:|
-| `Dev` | Software Design and Development: Software Engineering & SDLC Phases | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Software%20Design%20and%20Development_%20Software%20Engineering%20%26%20SDLC%20Phases.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/5bd2a157-c20e-4a4f-923a-7000eb90c631) |
-| `Cloud` | Azure Data Fundamentals: Azure Data Ingestion & Processing | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Azure%20Data%20Fundamentals_%20Azure%20Data%20Ingestion%20%26%20Processing.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/e9a23019-922c-4bfa-9b4f-4248e44ef827) |
-| `BigData` | Traditional Data Architectures: Data Warehousing and ETL Systems | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Traditional%20Data%20Architectures_%20Data%20Warehousing%20and%20ETL%20Systems.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/698a140d-097a-45b2-9ab5-8bdf73ceb6b8) |
-| `BigData` | QlikView: Extract, Transform, & Load (ETL) | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/QlikView_%20Extract%2C%20Transform%2C%20%26%20Load%20(ETL).pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/8f761a5c-b63b-4699-8bac-99276e4bf627) |
-| `Cloud` | CompTIA Server+: Servers & Cloud Computing | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/CompTIA%20Server%2B_%20Servers%20%26%20Cloud%20Computing.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/d4e22302-4fa2-4ed8-908c-693e0772bd18) |
-| `Cloud` | Cloud Data Platforms: Cloud-based Applications & Storage | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Cloud%20Data%20Platforms_%20Cloud-based%20Applications%20%26%20Storage.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/8b71f6f6-bd53-4508-9c12-1a77509dba72) |
-| `Cloud` | Cloud Data Platforms: AWS, Azure, & GCP Comparison | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Cloud%20Data%20Platforms_%20AWS%2C%20Azure%2C%20%26%20GCP%20Comparison.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/12dfadbe-a338-4156-8e09-692108eae768) |
-| `Cloud` | Cloud Data Platforms: Cloud Computing | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Cloud%20Data%20Platforms_%20Cloud%20Computing.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/ff49d51b-5fd5-4351-9b60-aec1e4936214) |
-| `SQL` | Working with Functions, Times, Dates, & Intervals | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Working%20with%20Functions%2C%20Times%2C%20Dates%2C%20%26%20Intervals.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/3994e60a-cf69-4187-b1b3-bd06f049bb8c) |
-| `SQL` | Designing & Implementing Views | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Designing%20%26%20Implementing%20Views.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/9c68de3b-cfa3-40c3-b750-5e38b76d4b84) |
-| `SQL` | Querying & Manipulating Data | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Querying%20%26%20Manipulating%20Data.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/a0e17400-1473-43c8-98cf-4176bfb04bcb) |
-| `BigData` | Introduction to Apache Spark | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Introduction%20to%20Apache%20Spark.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/33757123-24ef-4804-b04b-a88ebb62f1d8) |
-| `Cloud` | Introduction to AWS Services | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Introduction%20to%20AWS%20Services.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/740acbe3-ff9f-43c0-85c3-190b74e50745) |
-| `BigData` | Big Data Concepts: Getting to Know Big Data | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Big%20Data%20Concepts_%20Getting%20to%20Know%20Big%20Data.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/b1d5bfcb-bf77-4efd-9d09-dbd32d42bd5a) |
-| `Cloud` | AWS Cloud Practitioner 2020: Cloud & the Value Proposition | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/AWS%20Cloud%20Practitioner%202020_%20Cloud%20%26%20the%20Value%20Proposition.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/6b27c559-1cc6-4504-93e5-922889f63e5b) |
-
-**Jan, 2023**
-
-|**Domain**|**Course**|**Certificate**|**Badge**|
-|:--------:|:---------|:-------------:|:-------:|
-| `SQL` | Data Integrity & Constraints | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Data%20Integrity%20%26%20Constraints.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/bb00df4e-6403-4327-8711-049e7c612859) |
-| `BigData` | Introduction to Hadoop | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Introduction%20to%20Hadoop.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/bea1e7e0-89ed-46dd-8c31-153988138eb6) |
-| `BigData` | Big Data Concepts: Big Data Essentials | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Big%20Data%20Concepts_%20Big%20Data%20Essentials.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/b5c93b08-4d9e-489a-b2fb-053ed87250c6) |
-| `SQL` | SQL 2016 Tables | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/SQL%202016%20Tables.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/8af40e90-09d5-4a9a-881f-9f5654bfcdb1) |
-| `Python` | Python Development: Creating Classes, Handling Errors, & Importing Modules | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Python%20Development_%20Creating%C2%A0Classes%2C%C2%A0Handling%C2%A0Errors%2C%20%26%C2%A0Importing%C2%A0Modules.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/6d9e6812-0c08-4dfc-b2da-3e0747a9219d) |
-
-**Oct, 2022**
-
-|**Domain**|**Course**|**Certificate**|**Badge**|
-|:--------:|:---------|:-------------:|:-------:|
-| `Stats` | Datasets in R: Selecting, Filtering, Ordering, & Grouping Data | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Datasets%20in%20R_%20Selecting%2C%20Filtering%2C%20Ordering%2C%20%26%20Grouping%20Data.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/29bfe954-22eb-4d0a-bb2e-c14ae00fe0d2) |
-| `Stats` | R Programming for Beginners: Getting Started | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/R%20Programming%20for%20Beginners_%20Getting%20Started.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/2abbe37c-9807-4dae-9faf-d675247add93) |
-| `Python` | Functions in Python: Gaining a Deeper Understanding of Python Functions | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Functions%20in%20Python_%20Gaining%20a%20Deeper%20Understanding%20of%20Python%20Functions.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/93f3b9dd-b406-4566-b925-804b7cd03b46) |
-| `Python` | Python Classes & Inheritance: Introduction | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Python%20Classes%20%26%20Inheritance_%20Introduction.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/c48c61b0-3d99-4baf-8398-a260679aab6b) |
-| `Python` | Advanced Python Topics: File Operations in Python | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Advanced%20Python%20Topics_%20File%20Operations%20in%20Python.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/fe17ab9d-ac2d-4bbd-b8b3-3ff39893131c) |
-| `Python` | Conditional Statements & Loops: The Basics of for Loops in Python | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Conditional%20Statements%20%26%20Loops_%20The%20Basics%20of%20for%20Loops%20in%20Python.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/9d681801-7133-43a4-9896-5b9b55c3bb4c) |
-| `Python` | Complex Data Types in Python: Working with Lists & Tuples in Python | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Complex%20Data%20Types%20in%20Python_%20Working%20with%20Lists%20%26%20Tuples%20in%20Python.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/cc960b13-1103-4031-babe-90950c1f0b65) |
-| `Python` | Getting Started with Python: Introduction | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Getting%20Started%20with%20Python_%20Introduction.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/12060326-9761-43f4-a30b-9830fe5ce160) |
-
-**Apr, 2022**
-
-|**Domain**|**Course**|**Certificate**|**Badge**|
-|:--------:|:---------|:-------------:|:-------:|
-| `Stats` | Inferential Statistics | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Inferential%20Statistics.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/b4e87aba-2ca3-4d34-b1d1-90aa64e29a42) |
-| `PD` | Saving Time by Setting Goals | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Saving%20Time%20by%20Setting%20Goals.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/48c84a9a-335a-466d-aae4-e8dd2cbd58ff) |
-| `PD` | Sharpening Your Focus to Stay on Track | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Sharpening%20Your%20Focus%20to%20Stay%20on%20Track.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/38419bf1-36ef-4009-8f0d-24cad9810c69) |
-| `PD` | Aligning Goals and Priorities To Manage Time | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Aligning%20Goals%20and%20Priorities%20To%20Manage%20Time.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/2a6021b4-da36-44ef-8915-98814b82f62d) |
-| `PD` | Managing Your Time So It Doesn’t Manage You | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Managing%20Your%20Time%20So%20It%20Doesn%E2%80%99t%20Manage%20You.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/32ca885a-6a9d-474d-ad8d-3eaad258b960) |
-| `PD` | Maximize Your Productivity by Managing Time and Tasks | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Maximize%20Your%20Productivity%20by%20Managing%20Time%20and%20Tasks.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/f75eca7b-07c4-4bd7-9d99-cb8862b7de4f) |
 
 **Mar, 2022**
 
