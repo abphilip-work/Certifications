@@ -49,12 +49,20 @@
 
 **Personal Development**
 
-|**Completion**|**Pathway**|**Certificate**|**Badge**|
-|:------------:|:----------|:-------------:|:-------:|
+|**Completion**|**Course**|**Certificate**|**Badge**|
+|:------------:|:---------|:-------------:|:-------:|
 | `Jun, 2023`  | How to Speak with Effortless Confidence | | [✅](https://www.linkedin.com/learning/certificates/c5d4377b468fa12151feb7201a9994b5fbb877dff193d178ee38e989389ca6e3) |
 | `Jun, 2023`  | 5 Common Test Failures | | [✅](https://www.linkedin.com/learning/certificates/726ac1c0404e8fb6f4904690047a467a520a539e507ef1fe6102cd5045dbebcd) |
 | `Jun, 2023`  | Mistakes You Should Avoid at Work | | [✅](https://www.linkedin.com/learning/certificates/d2dc3cabde13535efb1b73131f5c665c4329b67e05719017e9b6b378fcf0b874) |
 | `Jun, 2023`  | How to Commit Learning to Memory | | [✅](https://www.linkedin.com/learning/certificates/4d41104ef617edc4cb05be1cdf63bfd8e015dbbe004d0e89cb36c719123e2c7f) |
 | `Jun, 2023`  | Public Speaking: Find Your Confidence | | [✅](https://www.linkedin.com/learning/certificates/9672c12361343e6e13c2fdedd516832d3dd1bb8cd9b04b23b033f11e72e14614) |
+| `Jun, 2023`  | Doubling Your Productivity | | [✅](https://www.linkedin.com/learning/certificates/509998f19846d6779609e0a2965f8c3978940ed6a129156a098c44112e29e991) |
+| `Jun, 2023`  | How to Organize Your Time and Your Life | | [✅](https://www.linkedin.com/learning/certificates/31903ffbf29c683dc9a98d8caae7969dad40252f7bce2409ae6edb93e81cda6d) |
 | `Jun, 2023`  | Four Simple Strategies to Boost Creativity and Productivity | | [✅](https://www.linkedin.com/learning/certificates/e691df0b0424e0eb0c52f9dea3c49d28e58d6172a29d824d4ea6dc7b890fc8ef) |
 | `Jun, 2023`  | How to Learn Faster | | [✅](https://www.linkedin.com/learning/certificates/416fd0180884336e2618999ddf06e58bf1c6302ad7a12734fa562fde829ba249) |
+
+**Machine Learning**
+
+|**Completion**|**Course**|**Certificate**|**Badge**|
+|:------------:|:---------|:-------------:|:-------:|
+| `Jun, 2023`  | GPT-4: The New GPT Release and What You Need to Know | | [✅](https://www.linkedin.com/learning/certificates/5c0396baa949cfa0c570c8822a0ce18620bdd3205c42056d39b1e744cd01d230) |
