@@ -13,11 +13,15 @@
 
 <br>
 
-## **LeetCode** [📍]()
+## **LeetCode** [📍](https://leetcode.com/allenbphilip/)
 
 |**Skill**|**Badge**|
 |:--------|:-------:|
-| TBU | [✅]() |
+| Graph Theory I | ✅ |
+| Dynamic Programming I | ✅ |
+| Binary Search I | ✅ |
+| Programming Skills I | ✅ |
+| SQL I | ✅ |
 
 <br>
 
