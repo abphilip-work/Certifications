@@ -15,7 +15,7 @@
 
 ## **LeetCode** [📍](https://leetcode.com/allenbphilip/)
 
-|**Skill**|**Badge**|
+|**Course**|**Badge**|
 |:--------|:-------:|
 | Graph Theory I | ✅ |
 | Dynamic Programming I | ✅ |
