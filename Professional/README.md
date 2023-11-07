@@ -27,6 +27,8 @@
 | `Feb'23` | Introduction to AWS Services | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Introduction%20to%20AWS%20Services.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/740acbe3-ff9f-43c0-85c3-190b74e50745) |
 | `Feb'23` | AWS Cloud Practitioner 2020: Cloud & the Value Proposition | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/AWS%20Cloud%20Practitioner%202020_%20Cloud%20%26%20the%20Value%20Proposition.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/6b27c559-1cc6-4504-93e5-922889f63e5b) |
 
+<br>
+
 |**Completion**|**Software Development**|**Certificate**|**Badge**|
 |:------------:|:---------|:-------------:|:-------:|
 | `Jun'23` | Agile Foundations: Fundamentals | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Agile%20Foundations_%20Fundamentals.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/85124182-95bd-44d3-8690-a8ba35f45804) |
@@ -37,6 +39,8 @@
 | `Mar'23` | Software Design and Development: Modeling with UML | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Software%20Design%20and%20Development_%20Modeling%20with%20UML.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/95cd2cd2-2c5f-4f54-a436-8b6382546175) |
 | `Mar'23` | Software Design and Development: Methodologies | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Software%20Design%20and%20Development_%20Methodologies.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/543b98e0-f659-400c-8aaf-ed308e06faf6) |
 | `Feb'23` | Software Design and Development: Software Engineering & SDLC Phases | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Software%20Design%20and%20Development_%20Software%20Engineering%20%26%20SDLC%20Phases.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/5bd2a157-c20e-4a4f-923a-7000eb90c631) |
+
+<br>
 
 |**Completion**|**Python**|**Certificate**|**Badge**|
 |:------------:|:---------|:-------------:|:-------:|
@@ -57,6 +61,8 @@
 | `Mar'22` | Data & Sequence Types | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Data%20%26%20Sequence%20Types.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/50a11056-0597-4323-b8d6-4bf197d0953c) |
 | `Mar'22` | Python: Getting Started | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Python_%20Getting%20Started.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/682deabe-c029-4ec0-9788-647997d2b6b5) |
 
+<br>
+
 |**Completion**|**SQL**|**Certificate**|**Badge**|
 |:------------:|:---------|:-------------:|:-------:|
 | `Feb'23` | Working with Functions, Times, Dates, & Intervals | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Working%20with%20Functions%2C%20Times%2C%20Dates%2C%20%26%20Intervals.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/3994e60a-cf69-4187-b1b3-bd06f049bb8c) |
@@ -72,6 +78,8 @@
 | `Mar'22` | Table Design: Functions & Strings | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Table%20Design_%20Functions%20%26%20Strings.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/68984391-7e0c-4af1-80e2-165ae986197b) |
 | `Mar'22` | Multiple SQL Tables | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Multiple%20SQL%20Tables.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/8637c5e1-622b-4f8c-9601-56639a0e244d) |
 
+<br>
+
 |**Completion**|**Stats**|**Certificate**|**Badge**|
 |:------------:|:---------|:-------------:|:-------:|
 | `Oct'22` | Datasets in R: Selecting, Filtering, Ordering, & Grouping Data | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Datasets%20in%20R_%20Selecting%2C%20Filtering%2C%20Ordering%2C%20%26%20Grouping%20Data.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/29bfe954-22eb-4d0a-bb2e-c14ae00fe0d2) |
@@ -82,6 +90,8 @@
 | `Mar'22` | R Data Structures | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/R%20Data%20Structures.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/5ea48151-c9d6-4c30-b075-9d9d5c02feae) |
 | `Mar'22` | Data Wrangling | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Data%20Wrangling.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/41f2cae8-0e39-446c-8289-8c4f82511476) |
 | `Mar'22` | Introduction to RStudio | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Introduction.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/e1aaa843-3556-43d5-9503-82578b27e194) |
+
+<br>
 
 |**Completion**|**Big Data**|**Certificate**|**Badge**|
 |:------------:|:---------|:-------------:|:-------:|
@@ -104,10 +114,14 @@
 | `Jan'23` | Introduction to Hadoop | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Introduction%20to%20Hadoop.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/bea1e7e0-89ed-46dd-8c31-153988138eb6) |
 | `Jan'23` | Big Data Concepts: Big Data Essentials | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Big%20Data%20Concepts_%20Big%20Data%20Essentials.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/b5c93b08-4d9e-489a-b2fb-053ed87250c6) |
 
+<br>
+
 |**Completion**|**Machine Learning**|**Certificate**|**Badge**|
 |:------------:|:---------|:-------------:|:-------:|
 | `May'23` | Machine Learning with TensorFlow & Cloud ML | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Machine%20Learning%20with%20TensorFlow%20%26%20Cloud%20ML.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/d12edd32-c942-4827-8d29-2c65357829ef) |
 | `May'23` | Machine Learning Introduction | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Machine%20Learning%20Introduction.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/26415cb1-fbb2-45d9-85df-3e0bf6d7caa6) |
+
+<br>
 
 |**Completion**|**Microsoft 365**|**Certificate**|**Badge**|
 |:------------:|:---------|:-------------:|:-------:|
@@ -140,6 +154,8 @@
 | `Mar'22` | Getting to Know Macros in Excel 2019 | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Getting%20to%20Know%20Macros.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/6409fd9d-49ac-4cd1-a812-ab7ea2e33902) |
 | `Mar'22` | Working with Different Chart Styles in Excel 2019 | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Working%20with%20Different%20Chart%20Styles.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/d00354df-ea73-41f2-8161-084f1e901734) |
 | `Mar'22` | Getting Started in Excel 2019 | [✅](https://github.com/abphilip-work/Certifications/blob/master/ZS/Achievements/Getting%20Started.pdf) | [✅](https://skillsoft.digitalbadges.skillsoft.com/60c78de7-e9ee-4e36-a9cc-88c952c95efd) |
+
+<br>
 
 |**Completion**|**Miscellaneous**|**Certificate**|**Badge**|
 |:------------:|:---------|:-------------:|:-------:|
@@ -174,6 +190,8 @@
 | Innovation Mindset | Story Telling & Data Visualizations | ✅ |
 | Innovation Mindset | User Experience | ✅ |
 
+<br>
+
 |**Rapid Skilling**|**Basics**|**Intermediate**|**Advanced**|**Labs**|
 |:----------|:--------:|:--------------:|:----------:|:------:|
 | Excel | ✅ | ✅ | ✅ | |
@@ -198,6 +216,8 @@
 | Database Management | ✅ | | |
 | Databricks | ✅ | ✅ | | |
 | Software Development Life Cycle | ✅ | | | |
+
+<br>
 
 |**General Pathway**|**Status**|
 |:----------|:--------:|
