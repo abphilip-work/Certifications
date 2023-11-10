@@ -8,7 +8,7 @@
 
 <br>
 
-## **Percipio**
+## **Percipio** [📍]
 
 |**Completion**|**Cloud Computing**|**Certificate**|**Badge**|
 |:------------:|:---------|:-------------:|:-------:|
