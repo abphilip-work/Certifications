@@ -1,6 +1,6 @@
 ## **About Me** <img src="assets/about_me.gif" width=30px>
 
-Hi, I'm Allen. An Analytics Associate at ZS.
+Hi, I'm Allen. Analytics Associate at ZS.
 - 🎓 A data enthusiast with a passion for solving business problems.
 - 💡 Currently learning about cloud based big data engineering.
 - 💬 How to reach me: [LinkedIn](https://www.linkedin.com/in/allenbphilip/)
