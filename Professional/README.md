@@ -1,4 +1,4 @@
-## **Coursera** [📍](https://www.coursera.org/user/1da0ae915e941de37c6219f85023a488)
+## [📍](https://www.coursera.org/user/1da0ae915e941de37c6219f85023a488) **Coursera** 
 
 |**Domain**|**Course**|**Certificate**|**Badge**|
 |:--------:|:---------|:-------------:|:-------:|
@@ -8,7 +8,7 @@
 
 <br>
 
-## **Percipio**
+## [📍]() **Percipio**
 
 |**Completion**|**Cloud Computing**|**Certificate**|**Badge**|
 |:------------:|:---------|:-------------:|:-------:|
@@ -168,7 +168,7 @@
 
 <br>
 
-## **Degreed** [📍](https://degreed.com/profile/dguser53qmz6d/overview)
+## [📍](https://degreed.com/profile/dguser53qmz6d/overview) **Degreed**
 
 |**Section**|**Digital Literacy**|**Status**|
 |:----------|:----------|:--------:|
@@ -239,7 +239,7 @@
 
 <br>
 
-## **MyLearning ZS**
+## [📍]() **MyLearning ZS**
 
 |**Course**|**Certificate**|
 |:---------|:-------------:|
