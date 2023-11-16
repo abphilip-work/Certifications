@@ -1,4 +1,4 @@
-## **Coursera** [📍](https://www.coursera.org/user/e1055e1e8f6127414dff2a2d12ad5093)
+## [📍](https://www.coursera.org/user/e1055e1e8f6127414dff2a2d12ad5093) **Coursera**
 
 |**Domain**|**Course**|**Certificate**|**Badge**|
 |:--------:|:---------|:-------------:|:-------:|
@@ -6,7 +6,7 @@
 
 <br>
 
-## **Google Cloud Qwiklabs** [📍](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6)
+## [📍](https://www.cloudskillsboost.google/public_profiles/d99bc10b-9bd1-4a46-8939-652133d2a0f6) **Google Cloud Qwiklabs**
   
 |**Pathway**|**Status**|
 :-----------|:--------:|
