@@ -13,7 +13,7 @@
 
 <br>
 
-## **LeetCode** [📍](https://leetcode.com/allenbphilip/)
+## **LeetCode** [📍](https://leetcode.com/allenbphilip)
 
 |**Course**|**Badge**|
 |:--------|:-------:|
@@ -51,9 +51,7 @@
 
 ## **LinkedIn Learning** [📍](https://www.linkedin.com/in/allenbphilip)
 
-**Personal Development**
-
-|**Completion**|**Course**|**Certificate**|**Badge**|
+|**Completion**|**Personal Development**|**Certificate**|**Badge**|
 |:------------:|:---------|:-------------:|:-------:|
 | `Jun'23` | How to Speak with Effortless Confidence | | [✅](https://www.linkedin.com/learning/certificates/c5d4377b468fa12151feb7201a9994b5fbb877dff193d178ee38e989389ca6e3) |
 | `Jun'23` | 5 Common Test Failures | | [✅](https://www.linkedin.com/learning/certificates/726ac1c0404e8fb6f4904690047a467a520a539e507ef1fe6102cd5045dbebcd) |
@@ -65,8 +63,6 @@
 | `Jun'23` | Four Simple Strategies to Boost Creativity and Productivity | | [✅](https://www.linkedin.com/learning/certificates/e691df0b0424e0eb0c52f9dea3c49d28e58d6172a29d824d4ea6dc7b890fc8ef) |
 | `Jun'23` | How to Learn Faster | | [✅](https://www.linkedin.com/learning/certificates/416fd0180884336e2618999ddf06e58bf1c6302ad7a12734fa562fde829ba249) |
 
-**Machine Learning**
-
-|**Completion**|**Course**|**Certificate**|**Badge**|
+|**Completion**|**Machine Learning**|**Certificate**|**Badge**|
 |:------------:|:---------|:-------------:|:-------:|
 | `Jun'23` | GPT-4: The New GPT Release and What You Need to Know | | [✅](https://www.linkedin.com/learning/certificates/5c0396baa949cfa0c570c8822a0ce18620bdd3205c42056d39b1e744cd01d230) |
