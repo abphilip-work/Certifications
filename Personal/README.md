@@ -1,4 +1,4 @@
-## **HackerRank** [📍](https://www.hackerrank.com/idk_the_answers)
+## [📍](https://www.hackerrank.com/idk_the_answers) **HackerRank**
 
 |**Skill**|**Basic**|**Inter**|**Badge**|
 |:--------|:-------:|:-------:|:-------:|
@@ -13,7 +13,7 @@
 
 <br>
 
-## **LeetCode** [📍](https://leetcode.com/allenbphilip)
+## [📍](https://leetcode.com/allenbphilip) **LeetCode**
 
 |**Course**|**Badge**|
 |:--------|:-------:|
@@ -25,7 +25,7 @@
 
 <br>
 
-## **Kaggle** [📍](https://www.kaggle.com/allenbphilip)
+## [📍](https://www.kaggle.com/allenbphilip) **Kaggle**
 
 |**Course**|**Certificate**|**Badge**|
 |:---------|:-------------:|:-------:|
@@ -49,7 +49,7 @@
 
 <br>
 
-## **LinkedIn Learning** [📍](https://www.linkedin.com/in/allenbphilip)
+## [📍](https://www.linkedin.com/in/allenbphilip) **LinkedIn Learning**
 
 |**Completion**|**Personal Development**|**Certificate**|**Badge**|
 |:------------:|:---------|:-------------:|:-------:|
