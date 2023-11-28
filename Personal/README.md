@@ -13,18 +13,6 @@
 
 <br>
 
-## [📍](https://leetcode.com/allenbphilip) **LeetCode**
-
-|**Course**|**Badge**|
-|:--------|:-------:|
-| Graph Theory I | ✅ |
-| Dynamic Programming I | ✅ |
-| Binary Search I | ✅ |
-| Programming Skills I | ✅ |
-| SQL I | ✅ |
-
-<br>
-
 ## [📍](https://www.kaggle.com/allenbphilip) **Kaggle**
 
 |**Course**|**Certificate**|**Badge**|
@@ -46,6 +34,26 @@
 | Geospatial Analysis | [✅](https://github.com/abphilip-work/Certifications/blob/master/Personal/Achievements/Kaggle%20Geospatial%20Analysis.png) | [✅](https://www.kaggle.com/learn/certification/allenbphilip/geospatial-analysis) |
 | Machine Learning Explainability | [✅](https://github.com/abphilip-work/Certifications/blob/master/Personal/Achievements/Kaggle%20Machine%20Learning%20Explainability.png) | [✅](https://www.kaggle.com/learn/certification/allenbphilip/machine-learning-explainability) |
 | Intro to Game AI and Reinforcement Learning | [✅](https://github.com/abphilip-work/Certifications/blob/master/Personal/Achievements/Kaggle%20Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning.png) | [✅](https://www.kaggle.com/learn/certification/allenbphilip/intro-to-game-ai-and-reinforcement-learning) |
+
+<br>
+
+## [📍](https://www.coursera.org/user/e1055e1e8f6127414dff2a2d12ad5093) **Coursera**
+
+|**Domain**|**Course**|**Certificate**|**Badge**|
+|:--------:|:---------|:-------------:|:-------:|
+| `Python` | Programming for Everybody (Getting Started with Python) | [✅](https://github.com/abphilip-work/Certifications/blob/master/Coursera/Achievements/Coursera%20B8CTZ5H97WYC.pdf) | [✅](https://coursera.org/share/390dd80f05ad1990b746c257175b8a9b) |
+
+<br>
+
+## [📍](https://leetcode.com/allenbphilip) **LeetCode**
+
+|**Course**|**Badge**|
+|:--------|:-------:|
+| Graph Theory I | ✅ |
+| Dynamic Programming I | ✅ |
+| Binary Search I | ✅ |
+| Programming Skills I | ✅ |
+| SQL I | ✅ |
 
 <br>
 
