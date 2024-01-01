@@ -2,6 +2,9 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
+    <meta name="type" property="og:type" content="Website">
+    <meta name="title" property="og:title" content="Allen Ben Philipose">
+    <meta name="description" property="og:description" content="Personal Website of Allen Ben Philipose">
     <meta name="author" content="Allen Ben Philipose">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
@@ -11,7 +14,7 @@
       Allen Ben Philipose website, abphilip iykk, Allen Ben Philipose,
       allen, allen ben, abphilip, allen iykk, Allen, allenalvin333, 
       Allen, Ben, Philipose, Allen Certifications, allenbphilip"
-    >
+    >    
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>    
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
@@ -21,6 +24,7 @@
   </head>
   <body>
     <header class="page-header" role="banner">
+      <h1 class="project-name">{{ default: site.title }}</h1><br/>
       <a href="{{ '/' | relative_url }}" class="btn">About</a>
       <a href="{{ '/Personal' | relative_url }}" class="btn">Personal</a>
       <a href="{{ '/Academic' | relative_url }}" class="btn">Academic</a>
