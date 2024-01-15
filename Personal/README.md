@@ -71,6 +71,27 @@
 | `Jun'23` | Four Simple Strategies to Boost Creativity and Productivity | | [✅](https://www.linkedin.com/learning/certificates/e691df0b0424e0eb0c52f9dea3c49d28e58d6172a29d824d4ea6dc7b890fc8ef) |
 | `Jun'23` | How to Learn Faster | | [✅](https://www.linkedin.com/learning/certificates/416fd0180884336e2618999ddf06e58bf1c6302ad7a12734fa562fde829ba249) |
 
+<br>
+
 |**Completion**|**Machine Learning**|**Certificate**|**Badge**|
 |:------------:|:---------|:-------------:|:-------:|
 | `Jun'23` | GPT-4: The New GPT Release and What You Need to Know | | [✅](https://www.linkedin.com/learning/certificates/5c0396baa949cfa0c570c8822a0ce18620bdd3205c42056d39b1e744cd01d230) |
+
+<br>
+
+|**Completion**|**Data Engineering**|**Certificate**|**Badge**|
+|:------------:|:---------|:-------------:|:-------:|
+| `Feb'23` | Data Strategy | | [✅](https://www.linkedin.com/learning/certificates/b359b5684dd508a1248fa21ea9cf0943910b6db17e15aa8082a4d022b4962338) |
+
+<br>
+
+|**Completion**|**Project Management**|**Certificate**|**Badge**|
+|:------------:|:---------|:-------------:|:-------:|
+| `Feb'23` | Trending Tools | | [✅](https://www.linkedin.com/learning/certificates/07b15d9a88fdd1de38ac76171bcc57801fd7dab1ffda01b34cfa8a87f3444c7f) |
+| `Feb'23` | Learning Design Thinking | | [✅](https://www.linkedin.com/learning/certificates/1d42d189c8ebe39f18282d152f51eb77733d742e534f0155913c0c1beeca546d) |
+
+<br>
+
+|**Completion**|**Software Frameworks**|**Certificate**|**Badge**|
+|:------------:|:---------|:-------------:|:-------:|
+| `Feb'23` | Learning Windows Terminal | | [✅](https://www.linkedin.com/learning/certificates/a0ab258e34778119d2a8c752b07ffcc4f6a619e74c81dfae679bf7f4e775f805) |
