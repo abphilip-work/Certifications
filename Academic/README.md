@@ -1,4 +1,13 @@
-## [📍](https://www.coursera.org/user/e1055e1e8f6127414dff2a2d12ad5093) **Coursera**
+## [📍](https://www.coursera.org/user/e1055e1e8f6127414dff2a2d12ad5093) **Coursera Specializations**
+
+|**Domain**|**Course**|**Certificate**|**Badge**|
+|:--------:|:---------|:-------------:|:-------:|
+| `Cloud` | Preparing for Google Cloud Certification: Cloud Architect | [✅](https://github.com/abphilip-work/Certifications/blob/master/Coursera/Achievements/Coursera%20P2ZA7W422CWJ.pdf) | [✅](https://coursera.org/share/65b151c02c07acfbf6ba1dcae560deb9) |
+| `Cloud` | Preparing for Google Cloud Certification: Cloud Engineer | [✅](https://github.com/abphilip-work/Certifications/blob/master/Coursera/Achievements/Coursera%203EMN3YCJ4QPX.pdf) | [✅](https://coursera.org/share/0ec74722819cc5a02b631b47b8b9a55f) |
+| `Cloud` | Architecting with Google Compute Engine | [✅](https://github.com/abphilip-work/Certifications/blob/master/Coursera/Achievements/Coursera%20FKRUHUN8UKLF.pdf) | [✅](https://coursera.org/share/432cf959d8cc7816d0dec4feb9f80b58) |
+
+
+## [📍](https://www.coursera.org/user/e1055e1e8f6127414dff2a2d12ad5093) **Coursera Courses**
 
 |**Domain**|**Course**|**Certificate**|**Badge**|
 |:--------:|:---------|:-------------:|:-------:|
