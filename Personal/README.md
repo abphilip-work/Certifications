@@ -37,14 +37,6 @@
 
 <br>
 
-## [📍](https://www.coursera.org/user/e1055e1e8f6127414dff2a2d12ad5093) **Coursera**
-
-|**Domain**|**Course**|**Certificate**|**Badge**|
-|:--------:|:---------|:-------------:|:-------:|
-| `Python` | Programming for Everybody (Getting Started with Python) | [✅](https://github.com/abphilip-work/Certifications/blob/master/Coursera/Achievements/Coursera%20B8CTZ5H97WYC.pdf) | [✅](https://coursera.org/share/390dd80f05ad1990b746c257175b8a9b) |
-
-<br>
-
 ## [📍](https://leetcode.com/allenbphilip) **LeetCode**
 
 |**Course**|**Badge**|
