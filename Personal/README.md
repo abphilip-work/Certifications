@@ -65,6 +65,12 @@
 
 <br>
 
+|**Completion**|**Cloud Engineering**|**Certificate**|**Badge**|
+|:------------:|:---------|:-------------:|:-------:|
+| `Feb'23` | Cloud DevOps Concepts: Understanding Processes and Services | | [✅](https://www.linkedin.com/learning/certificates/a98bded7f7567c20acf56883a186b4d29675a99a8812a253ddb2f56b2a8ba574) |
+
+<br>
+
 |**Completion**|**Machine Learning**|**Certificate**|**Badge**|
 |:------------:|:---------|:-------------:|:-------:|
 | `Jun'23` | GPT-4: The New GPT Release and What You Need to Know | | [✅](https://www.linkedin.com/learning/certificates/5c0396baa949cfa0c570c8822a0ce18620bdd3205c42056d39b1e744cd01d230) |
