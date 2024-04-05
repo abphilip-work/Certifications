@@ -67,7 +67,8 @@
 
 |**Completion**|**Cloud Engineering**|**Certificate**|**Badge**|
 |:------------:|:---------|:-------------:|:-------:|
-| `Feb'23` | Cloud DevOps Concepts: Understanding Processes and Services | | [✅](https://www.linkedin.com/learning/certificates/a98bded7f7567c20acf56883a186b4d29675a99a8812a253ddb2f56b2a8ba574) |
+| `Jan'23` | Cloud DevOps Concepts: Understanding Processes and Services | | [✅](https://www.linkedin.com/learning/certificates/a98bded7f7567c20acf56883a186b4d29675a99a8812a253ddb2f56b2a8ba574) |
+| `Jan'23` | Blockchain Basics | | [✅](https://www.linkedin.com/learning/certificates/2162ef4cd4cb67a1fac77e1bac28b488ab4b870b01c26c8d781be2106185ce05) |
 
 <br>
 
