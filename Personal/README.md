@@ -88,9 +88,13 @@
 |:------------:|:---------|:-------------:|:-------:|
 | `Feb'23` | Trending Tools | | [✅](https://www.linkedin.com/learning/certificates/07b15d9a88fdd1de38ac76171bcc57801fd7dab1ffda01b34cfa8a87f3444c7f) |
 | `Feb'23` | Learning Design Thinking | | [✅](https://www.linkedin.com/learning/certificates/1d42d189c8ebe39f18282d152f51eb77733d742e534f0155913c0c1beeca546d) |
+| `Jan'23` | Building Monorepos on GitHub | | [✅](https://www.linkedin.com/learning/certificates/2759676fdeaf0ebe10a207dbd9b9559d65c699b62eeb10774e543fce3b2f626f) |
+| `Jan'23` | GitHub Actions First Look | | [✅](https://www.linkedin.com/learning/certificates/338d19589f30ad184eb9363e50ef4f5b9c81c07ad1364e2b9f6c6b625b65b249) |
+| `Jan'23` | GitHub Codespaces: First Look | | [✅](https://www.linkedin.com/learning/certificates/9d567e2994c2be875711e9178e7fd53ca7fd3e3172eea4868d0a98653524dbfc) |
 
 <br>
 
 |**Completion**|**Software Frameworks**|**Certificate**|**Badge**|
 |:------------:|:---------|:-------------:|:-------:|
 | `Feb'23` | Learning Windows Terminal | | [✅](https://www.linkedin.com/learning/certificates/a0ab258e34778119d2a8c752b07ffcc4f6a619e74c81dfae679bf7f4e775f805) |
+| `Jan'23` | Power BI: Dashboards for Beginners | | [✅](https://www.linkedin.com/learning/certificates/a1ec3a49e47b7cb1be02d99269e25a7b745957a7c42e3688e7539582d2ebd520) |
